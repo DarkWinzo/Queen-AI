@@ -1,0 +1,17 @@
+{
+    "LANGUAGE": "English",
+    "LANGCODE": "EN",
+    "AUTHOR": "DarkWinzo",
+    "STRINGS": {
+      "log": {
+         "CONNECT_MSG": "*Chat-AI Bot Successfully connected your whatsapp* \n\n⚜️ Join Support Group ⚜️\nhttps://chat.whatsapp.com/CZQwGCvcyNKIVW3gPF7GqX\n\n🔓️ Give me a star on github 🔓️\nhttps://github.com/DarkWinzo/Whatsapp-AI\n\n🌐️ Please Subscribe Youtube Channel 🌐️\nhttps://www.youtube.com/@darkwinzo5483\n\n``` Thank for choosing Whatsapp-ai services.```\n\n"
+         },
+      "main": {
+          "REQUEST_API": "*🤖️ Error :- \n*```Ohh..Open-ai key not found.Please Put Open AI Key to config.js```\n\n_Make open ai key in this website_ : https://beta.openai.com/account/api-keys",
+          "EXAMPLE": "Example",
+          "ERROR": "❌️ Error Found",
+          "ERROR_CODE": "Error Code",
+          "ENTER_TEXT": "```Please give me a text```"
+      }
+    }
+}
