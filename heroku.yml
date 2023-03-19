@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /Connect/Dockerfile
+run:
+   worker: npm start
