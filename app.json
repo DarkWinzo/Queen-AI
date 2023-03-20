@@ -1,0 +1,72 @@
+{
+        "name": "Whatsapp-AI",
+	"description": "New Whatsapp-AI Chat Bot service",
+	"repository": "https://github.com/DarkWinzo/Whatsapp-AI",
+	"logo": "https://i.ibb.co/PN0gMPc/WHATSAPP-AI.png",
+	"keywords": ["multi-device","Whatsapp-AI","DarkWinzo"],
+  "stack": "container",
+  "addons": [{
+  "plan": "heroku-postgresql"
+    }],
+    "env": {
+      "HEROKU_APP_NAME": {
+        "description": "Heroku app name, same as above entered",
+        "required": true
+      },
+      "HEROKU_API_KEY": {
+        "description": "Heroku account api key, https://dashboard.heroku.com/account",
+        "required": true
+      },         
+                "OWNER_NAME": {
+			"description": "Add the owner name here and if you want to use the default name then just leave it",
+			"required": false,
+			"value": "DarkWinzo"
+		},
+		"OWNER_NUMBER": {
+			"description": "Add the owner number here",
+			"required": true,
+			"value": ""
+		},
+		"OPEN_AI_KEY": {
+			"description": "Add open-AI key here",
+			"required": true,
+			"value": ""
+		},
+		"OPEN_AI": {
+			"description": "on / off gpt chat ai bot",
+			"required": true,
+			"value": "false"
+		},
+		"CHATBOT_PM": {
+			"description": "on / off inbox chat bot",
+			"required": true,
+			"value": "true"
+		},
+		"CHATBOT_GROUP": {
+			"description": "on / off group chat bot",
+			"required": true,
+			"value": "true"
+		},
+		"LANGUAGE": {
+			"description": "Bot language EN/SI",
+			"required": true,
+			"value": "EN"
+		},
+		"PRESENT": {
+			"description": "on / off chat bot present",
+			"required": true,
+			"value": "true"
+		}
+	},
+	"buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+		 {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+    ]
+}
