@@ -11,7 +11,8 @@
           "EXAMPLE": "Example",
           "ERROR": "❌️ Error Found",
           "ERROR_CODE": "Error Code",
-          "ENTER_TEXT": "```Please give me a text```"
+          "ENTER_TEXT": "```Please give me a text```",
+          "SCRIPT": "🫧️ Whatsapp - AI Chat bot Sript 🫧️"
       }
     }
 }
