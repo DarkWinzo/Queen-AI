@@ -4,7 +4,7 @@
 
 ## World best  whatsapp Chat bot With Multilanguage🖤
 
-<img src="BOT IMAGE HERE😄.jpeg" alt="nz" width="350"/>
+<img src="" alt="nz" width="350"/>
 
 </p>
 
@@ -23,3 +23,12 @@
    <a href="https://chat.whatsapp.com/B7QtwpUd2RMAVQ57KzosBj"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDarkWinzo%2FQueen-AI&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![Docker Size](https://img.shields.io/docker/image-size/darkwinzo/quee-ai?style=flat&logo=docker&label=Docker+Size)
+![Docker Pulls](https://img.shields.io/docker/pulls/darkwinzo/queen-ai?style=flat&logo=docker&label=Docker+Pulls)
+
+![forks](https://img.shields.io/github/forks/DarkWinzo/Queen-AI?label=Forks&style=social)
+![stars](https://img.shields.io/github/stars/DarkWinzo/Queen-AI?style=social)
+
+![size](https://img.shields.io/github/repo-size/DarkWinzo/Queen-AI?color=purple&label=Repo%20Size&style=plastic)
+![license](https://img.shields.io/github/license/DarkWinzo/Queen-AI?color=purple&label=License&style=plastic)
+![developer](https://img.shields.io/static/v1?label=Author&message=Dark%20Winzo&color=purple&style=plastic)
