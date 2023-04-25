@@ -22,7 +22,9 @@
 
 5. Now [DEPLOY](https://heroku.com/deploy)
 
-   <a href="https://chat.whatsapp.com/B7QtwpUd2RMAVQ57KzosBj"><img alt="YouTube" src="https://img.shields.io/badge/-HowTo%20DeployBot-lightgrey?style=for-the-badge&logo=youtube&logoColor=red"/>
+   <a href="https://youtu.be/cbK273B0cAA"><img alt="YouTube" src="https://img.shields.io/badge/-HowTo%20DeployBot-lightgrey?style=for-the-badge&logo=youtube&logoColor=red"/>
+
+   <a href="VIDEO LINK HERE❤️"><img alt="YouTube" src="https://img.shields.io/badge/-HowTo%20UseBot-lightgrey?style=for-the-badge&logo=youtube&logoColor=red"/>
 
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDarkWinzo%2FQueen-AI&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 ![Docker Size](https://img.shields.io/docker/image-size/darkwinzo/quee-ai?style=flat&logo=docker&label=Docker+Size)
