@@ -1,24 +1,19 @@
 {
-  "name": "whatsapp-bot-md",
+  "name": "Queen-AI",
   "version": "1.0.0",
-  "description": "Multi device wa bot.",
+  "description": "Queen Ai Bot System",
   "main": "Base.js",
   "type": "commonjs",
   "scripts": {
     "start": "node Base.js"
   },
   "keywords": [
-    "termux",
-    "whatsapp",
-    "2021",
-    "wabase-md",
-    "base",
-    "baileys-md",
-    "bot",
-    "bot-md",
-    "multi-device"
-  ],
-  "author": "Adithyan",
+    "Queen-AI",
+    "DarkWinzo",
+    "AI",
+    "chat bot"
+ ],
+  "author": "DarkWinzo",
   "license": "MIT",
   "dependencies": {
         "@adiwajshing/baileys": "github:WhiskeySockets/Baileys",
@@ -60,7 +55,6 @@
         "qrcode-terminal": "^0.12.0",
         "request": "^2.88.2",
         "simple-git": "^3.17.0",
-        "queen-ai": "github:DarkWinzo/help",
         "util": "^0.12.5",
         "x-asena": "^1.0.1",
         "yargs": "^17.7.1"
@@ -72,10 +66,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HERMIT-SIR/whatsapp-bot-md.git"
+    "url": "git+https://github.com/DarkWinzo/Queen-AI.git"
   },
   "bugs": {
-    "url": "https://github.com/HERMIT-SIR/whatsapp-bot-md/issues"
+    "url": "https://github.com/DarkWinzo/Queen-AI/issues"
   },
-  "homepage": "https://github.com/HERMIT-SIR/whatsapp-bot-md#readme"
+  "homepage": "https://github.com/DarkWinzo/Queen-AI#readme"
 }
