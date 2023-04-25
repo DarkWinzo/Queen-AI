@@ -21,7 +21,7 @@ global.ownername = process.env.OWNER_NAME || "DarkWinzo";
 
 let fake = process.env.OWNER_NUMBER || "94775200935";
 
-global.language = process.env.OWNER_LANGUAGE || "EN";
+global.language = process.env.LANGUAGE || "EN";
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
