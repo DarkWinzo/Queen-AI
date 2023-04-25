@@ -1,4 +1,7 @@
 # QUEEN-AI
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+I+Am+Queen+AI;World's+Best+Whatsapp+ChatBot;+Coded+By+Dark+Winzo)](https://git.io/typing-svg)
 
 ### WhatsApp Chat bot
 
