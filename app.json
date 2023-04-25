@@ -1,9 +1,9 @@
 {
-        "name": "Queen-MD",
-	"description": "Queen-MD WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/DarkWinzo/Queen-MD",
-	"logo": "https://i.ibb.co/jZkzpw2/Queen.jpg",
-	"keywords": ["multi-device","Queen-MD","DarkWinzo"],
+  "name": "Queen-AI",
+  "description": "Queen-AI Multi Language WhatsApp AI Chat Bot",
+  "repository": "https://github.com/DarkWinzo/Queen-AI",
+  "logo": "https://i.ibb.co/jZkzpw2/Queen.jpg",
+  "keywords": ["multi-device","Queen-AI","DarkWinzo"],
   "stack": "container",
   "addons": [{
   "plan": "heroku-postgresql"
@@ -18,7 +18,7 @@
         "required": true
       },         
                 "SESSION_ID": {
-			"description": "SESSION ID",
+			"description": "Queen-AI Session ID",
 			"required": true
 			},
 		"OWNER_NAME": {
@@ -31,15 +31,15 @@
 			"required": true,
 			"value": ""
 		},
-		"PACK_NAME": {
-			"description": "Add pack name here",
+		"OPEN_AI_KEY": {
+			"description": "Enter Open AI api key here",
 			"required": true,
-			"value": "Queen-MD"
+			"value": ""
 		},
-		"STICKER_AUTHOR_NAME": {
-			"description": "Add sticker pack author name here",
+		"LANGUAGE": {
+			"description": "Enter bot working language EN / SI / ML",
 			"required": true,
-			"value": "DarkWinzo"
+			"value": "EN"
 		}
 	},
 	"buildpacks": [
