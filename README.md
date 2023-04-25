@@ -16,6 +16,9 @@
     <br>
 <a href='ADD QR LINK HERE❤️' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
+Fork The Repo Before Deploying
+<a href='https://github.com/DarkWinzo/Queen-AI/fork' target="_blank"><img alt='Fork' src='https://img.shields.io/badge/Fork-100000?style=for-the-badge&logo=fork&logoColor=white&labelColor=black&color=black'/></a>
+
 #### DEPLOY TO HEROKU 
 
 If You don't have a account in Heroku. Create a account.
