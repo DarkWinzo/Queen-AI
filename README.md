@@ -6,7 +6,7 @@
 
 ## World best  whatsapp Chat bot With Multilanguage🖤
 
-<img src="https://i.ibb.co/zbMKwKZ/20230425-161348.jpg" alt="nz" width="350"/>
+<img src="https://i.ibb.co/zbMKwKZ/20230425-161348.jpg" alt="Queen-AI" width="350"/>
 
 </p>
 
