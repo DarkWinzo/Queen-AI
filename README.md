@@ -28,16 +28,16 @@ If You don't have a account in Heroku. Create a account.
 
 Now Deploy
     <br>
-<a href='https://hermit.adi' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='DEPLOY LINK HERE❤' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ### Watch Video For Help
 ### Click Below Buttons
 
-<a href="VIDEO LINK HERE❤️"><img alt="YouTube" src="https://img.shields.io/badge/-HowTo%20DeployBot-lightgrey?style=for-the-badge&logo=youtube&logoColor=red"/><a href="VIDEO LINK HERE❤️"><img alt="YouTube" src="https://img.shields.io/badge/-HowTo%20UseBot-lightgrey?style=for-the-badge&logo=youtube&logoColor=red"/>
+<a href="ADD VIDEO LINK❤"><img src="https://img.shields.io/badge/Watch How To Deploy Bot-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=ADD VIDEO LINK❤" /><br>
+<a href="ADD VIDEO LINK❤"><img src="https://img.shields.io/badge/Watch How To Use Bot-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=ADD VIDEO LINK❤" /><br>
+
 
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDarkWinzo%2FQueen-AI&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
-![Docker Size](https://img.shields.io/docker/image-size/darkwinzo/queen-ai?style=flat&logo=docker&label=Docker+Size)
-![Docker Pulls](https://img.shields.io/docker/pulls/darkwinzo/queen-ai?style=flat&logo=docker&label=Docker+Pulls)
 
 ![forks](https://img.shields.io/github/forks/DarkWinzo/Queen-AI?label=Forks&style=social)
 ![stars](https://img.shields.io/github/stars/DarkWinzo/Queen-AI?style=social)
