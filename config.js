@@ -8,20 +8,32 @@
   
 */
 
-const fs = require('fs')
-const chalk = require('chalk')
+const fs = require('fs');
+const chalk = require('chalk');
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//========================================================={ QUEEN-MD WHATSAPP AI CHAT BOT }=======================================================//
 
-global.session = process.env.SESSION_ID || "";
 
-global.openaikey = process.env.OPEN_AI_KEY || "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"; //Put Your Open AI Api key
+global.session = process.env.SESSION_ID || "SESSION-ID PUT HERE"; //Enter your session id
 
-global.ownername = process.env.OWNER_NAME || "DarkWinzo";
+global.openaikey = process.env.OPEN_AI_KEY || ""; //Put Your Open AI Api key
 
-let fake = process.env.OWNER_NUMBER || "94775200935";
+global.ownername = process.env.OWNER_NAME || "DarkWinzo"; //Enter your name here
 
-global.language = process.env.LANGUAGE || "EN";
+let fake = process.env.OWNER_NUMBER || "94775200935"; //Enter your whatsapp number with country code
+
+global.language = process.env.LANGUAGE || "EN"; //Enter bot working language EN = English / SI = Sinhala /ML = Malay
+
+
+
+
+
+
+
+
+
+
+
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
