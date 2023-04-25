@@ -5,7 +5,7 @@
 ### WhatsApp Chat bot
 
 ## World best  whatsapp Chat bot With Multilanguage🖤
-<a href="https://i.ibb.co/zbMKwKZ/20230425-161348.jpg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+Queen-AI;Multi+Language;+Whatsapp+Chat+Bot;Coded+By+DarkWinzo" alt="Typing SVG" /></a>
+<a href="https://github.com/DarkWinzo/Queen-AI"><img src="https://i.ibb.co/zbMKwKZ/20230425-161348.jpg" alt="Queen-AI" /></a>
 
 
 </p>
