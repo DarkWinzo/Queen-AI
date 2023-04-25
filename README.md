@@ -33,8 +33,8 @@ Now Deploy
 ### Watch Video For Help
 ### Click Below Buttons
 
-<a href="ADD VIDEO LINK❤"><img src="https://img.shields.io/badge/Watch How To Deploy Bot-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=ADD VIDEO LINK❤" /><br>
-<a href="ADD VIDEO LINK❤"><img src="https://img.shields.io/badge/Watch How To Use Bot-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=ADD VIDEO LINK❤" /><br>
+<a href="ADD VIDEO LINK❤"><img src="https://img.shields.io/badge/Watch How To Deploy Bot-ff0000?style=for-the-badge&logo=youtube&logoColor=#8B0000&link=ADD VIDEO LINK❤" /><br>
+<a href="ADD VIDEO LINK❤"><img src="https://img.shields.io/badge/Watch How To Use Bot-ff0000?style=for-the-badge&logo=youtube&logoColor=#8B0000&link=ADD VIDEO LINK❤" /><br>
 
 
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDarkWinzo%2FQueen-AI&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
