@@ -22,7 +22,7 @@
 
 5. Now [DEPLOY](https://heroku.com/deploy)
 
-   <a href="https://youtu.be/cbK273B0cAA"><img alt="YouTube" src="https://img.shields.io/badge/-HowTo%20DeployBot-lightgrey?style=for-the-badge&logo=youtube&logoColor=red"/>
+   <a href="VIDEO LINK HERE❤️"><img alt="YouTube" src="https://img.shields.io/badge/-HowTo%20DeployBot-lightgrey?style=for-the-badge&logo=youtube&logoColor=red"/>
 
    <a href="VIDEO LINK HERE❤️"><img alt="YouTube" src="https://img.shields.io/badge/-HowTo%20UseBot-lightgrey?style=for-the-badge&logo=youtube&logoColor=red"/>
 
