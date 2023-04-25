@@ -12,15 +12,22 @@
 
 ### Setup
 
-1. Click [𝚂𝙲𝙰𝙽]ADD QR LINK HERE😄 and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+ Scan The QR In Whatsapp
+    <br>
+<a href='ADD QR LINK HERE❤️' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-2. You will get a session 𝚏𝚒𝚕𝚎 in whatsapp, 𝚊𝚍𝚍 𝚜𝚎𝚜𝚜𝚒𝚊𝚗 𝚏𝚒𝚕𝚎 𝚝𝚘 𝚝𝚑𝚒𝚜
+#### DEPLOY TO HEROKU 
 
-3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
+If You don't have a account in Heroku. Create a account.
+    <br>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-4. Click [FORK](https://github.com/DarkWinzo/Queen-AI//fork)
+Now Deploy
+    <br>
+<a href='https://hermit.adi' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-5. Now [DEPLOY](https://heroku.com/deploy)
+### Watch Video For Help
+### Click Below Buttons
 
    <a href="VIDEO LINK HERE❤️"><img alt="YouTube" src="https://img.shields.io/badge/-HowTo%20DeployBot-lightgrey?style=for-the-badge&logo=youtube&logoColor=red"/>
 
