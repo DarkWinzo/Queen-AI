@@ -16,7 +16,6 @@ const {
      } = require("@adiwajshing/baileys");
    
 const pino = require('pino');
-const singleToMulti = require("./Connect/lib/session-convert/MultiAuth");
 const { Boom } = require('@hapi/boom');
 const fs = require('fs');
 const { writeFile } = require("fs/promises");
@@ -33,19 +32,14 @@ const _ = require('lodash');
 const axios = require('axios');
 const express = require("express");
 const app = express();
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 8080;
 const PhoneNumber = require('awesome-phonenumber');
 const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./Connect/lib/exif');
 const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep } = require('./Connect/lib/myfunc');
 const prefix = global.prefix;
 const Connection = require("./Connect/lib/Connection");
 
-async function sessionwork() {
- if (!fs.existsSync("./session.queen.json")) 
-  await MakeSession(global.session, "./session.queen.json")
-  const { state } = await useMultiFileAuthState("./session");
-  await singleToMulti("session.queen.json","./session", state);
-};
+
 
 var low
 try {
@@ -90,7 +84,6 @@ global.loadDatabase = async function loadDatabase() {
 }
 loadDatabase()
 
-// Auto guardado de base de datos cada 30 Segundos
 if (global.db) setInterval(async () => {
     if (global.db.data) await global.db.write()
   }, 30 * 1000)
