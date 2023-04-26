@@ -2,10 +2,10 @@
   "name": "Queen-AI",
   "version": "1.0.0",
   "description": "Queen Ai Bot System",
-  "main": "Base.js",
+  "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node Base.js"
+    "start": "node index.js"
   },
   "keywords": [
     "Queen-AI",
