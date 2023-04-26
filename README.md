@@ -27,7 +27,7 @@ If You don't have a account in Heroku. Create a account.
 
 Now Deploy
     <br>
-<a href='DEPLOY LINK HERE❤' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/DarkWinzo/Queen-AI.git' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ### Watch Video For Help
 ### Click Below Buttons
