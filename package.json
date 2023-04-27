@@ -1,18 +1,23 @@
 {
-  "name": "Queen-AI",
+  "name": "Queen-MD",
   "version": "1.0.0",
-  "description": "Queen Ai Bot System",
+  "description": "Multi device wa bot.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [
-    "Queen-AI",
-    "DarkWinzo",
-    "AI",
-    "chat bot"
- ],
+    "Queen-MD",
+    "queen",
+    "whatsapp",
+    "wabase-md",
+    "darkwinzo",
+    "baileys-md",
+    "bot",
+    "bot-md",
+    "multi-device"
+  ],
   "author": "DarkWinzo",
   "license": "MIT",
   "dependencies": {
@@ -66,10 +71,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DarkWinzo/Queen-AI.git"
+    "url": "git+https://github.com/DarkWinzo/Queen-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/DarkWinzo/Queen-AI/issues"
+    "url": "https://github.com/DarkWinzo/Queen-MD/issues"
   },
-  "homepage": "https://github.com/DarkWinzo/Queen-AI#readme"
+  "homepage": "https://github.com/DarkWinzo/Queen-MD#readme"
 }
