@@ -13,7 +13,7 @@
 
  Scan The QR In Whatsapp
     <br>
-<a href='https://queen-qr.darkwinzo.repl.co/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://queen-ai.onrender.com/server/qr-code' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 Fork The Repo Before Deploying
     <br>
