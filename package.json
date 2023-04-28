@@ -17,7 +17,7 @@
   "author": "DarkWinzo",
   "license": "MIT",
   "dependencies": {
-        "@adiwajshing/baileys" : "^4.4.0",
+        "@adiwajshing/baileys" : "npm:jsl-bot",
         "@adiwajshing/keyed-db": "^0.2.4",
         "awesome-phonenumber": "^2.64.0",
         "axios": "^0.24.0",
