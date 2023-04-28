@@ -1,19 +1,9 @@
-FROM node
-
-RUN apt-get update && \
-  apt-get install -y \
-  ffmpeg \
-  imagemagick \
-  webp && \
-  apt-get upgrade -y && \
-  rm -rf /var/lib/apt/lists/*
-
-COPY package.json .
-
+FROM node:latest
+ENV TZ=Asia/Kolkata
+WORKDIR /root/DarkWinzo/
+COPY package*.json ./
 RUN npm install
-
+RUN apt -y update && apt -y upgrade && apt -y install ffmpeg git imagemagick python graphicsmagick sudo npm yarn curl && curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash - && sudo apt install -y nodejs && curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add - && echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list && apt -y update && apt -y install yarn && apt autoremove -y && rm -rf /var/lib/apt/lists/*
 COPY . .
-
-EXPOSE 5000
-
-CMD ["node", "Connect/module/cilent.js"]
+RUN yarn
+CMD ["yarn", "start"]
