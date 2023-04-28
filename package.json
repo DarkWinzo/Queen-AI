@@ -1,29 +1,23 @@
 {
-  "name": "Queenbot",
+  "name": "Queen-AI",
   "version": "1.0.0",
-  "description": "Simple WhatsApp - Multi Device",
+  "description": "World Best Multi Language Simple AI chat bot for whatsapp",
   "main": "Connect/module/cilent.js",
   "type": "commonjs",
   "scripts": {
         "start": "node Connect/module/cilent.js"
   },
   "keywords": [
-        "termux",
-        "whatsapp",
-        "2022",
-        "wabase-md",
-        "base",
-        "baileys-md",
-        "simple",
-        "bot",
-        "bot-md",
-        "Queenbot",
-        "multi-device"
+        "Queen-AI",
+        "Chat Bot",
+        "Chat gpt",
+        "Brainshop",
+        "DarkWinzo"
   ],
-  "author": "Gatito",
+  "author": "DarkWinzo",
   "license": "MIT",
   "dependencies": {
-        "@adiwajshing/baileys" : "^4.4.0",
+        "@adiwajshing/baileys" : "github:WhiskeySockets/Baileys",
         "@adiwajshing/keyed-db": "^0.2.4",
         "awesome-phonenumber": "^2.64.0",
         "aes256":"1.1.0",
@@ -61,16 +55,16 @@
         "yargs": "^17.2.1"
   },
   "directories": {
-        "lib": "lib",
-        "src": "src"
+        "lib": "Connect/lib",
+        "src": "Connect/src"
   },
   "devDependencies": {},
   "repository": {
         "type": "git",
-        "url": "git+https://github.com/Gatito-kw/Queenbot-simple-md.git"
+        "url": "git+https://github.com/DarkWinzo/Queen-AI.git"
   },
   "bugs": {
-        "url": "https://github.com/Gatito-kw/Queenbot-simple-md/issues"
+        "url": "https://github.com/DarkWinzo/Queen-AI/issues"
   },
-  "homepage": "https://github.com/Gatito-kw/Queenbot-simple-md#readme"
+  "homepage": "https://github.com/DarkWinzo/Queen-AI#readme"
 }
