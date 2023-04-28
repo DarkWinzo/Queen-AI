@@ -17,7 +17,7 @@
   "author": "DarkWinzo",
   "license": "MIT",
   "dependencies": {
-        "@adiwajshing/baileys" : "npm:jsl-bot",
+        "@adiwajshing/baileys" : "git+https://github.com/fenandes/Baileys.git",
         "@adiwajshing/keyed-db": "^0.2.4",
         "awesome-phonenumber": "^2.64.0",
         "axios": "^0.24.0",
