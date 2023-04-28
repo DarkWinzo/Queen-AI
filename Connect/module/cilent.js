@@ -1,7 +1,6 @@
 const { default: QueenConnect, useMultiFileAuthState, DisconnectReason, Browsers, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
 const config = require('../../config');
 const pino = require('pino');
-const { Boom } = require('@hapi/boom');
 const fs = require('fs');
 const yargs = require('yargs/yargs');
 const { say } = require('cfonts');
@@ -10,8 +9,6 @@ const FileType = require('file-type');
 const path = require('path');
 const _ = require('lodash');
 const axios = require('axios');
-const express = require("express");
-const app = express();
 const port = 8000
 const PhoneNumber = require('awesome-phonenumber');
 const Connection = require("../lib/Connection");
