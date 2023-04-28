@@ -1,9 +1,9 @@
-QUEEN-AI PROJECT DETAILS
+# QUEEN-AI PROJECT DETAILS
 
-#Project Name : Queen-AI
+## Project Name : Queen-AI
 
-#Version : 1.0.0
+## Version : 1.0.0
 
-#Author : DarkWinzo
+## Author : DarkWinzo
 
-#Language : JavaScript
+## Language : JavaScript
