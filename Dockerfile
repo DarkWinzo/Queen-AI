@@ -1,5 +1,5 @@
 FROM node:latest
-ENV TZ=Asia/Kolkata
+ENV TZ=Asia/Colombo
 WORKDIR /root/DarkWinzo/
 COPY package*.json ./
 RUN npm install
