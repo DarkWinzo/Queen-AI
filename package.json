@@ -1,5 +1,5 @@
 {
-  "name": "Queen-AI",
+  "name": "queen-ai",
   "version": "1.0.0",
   "description": "World Best Multi Language Simple AI chat bot for whatsapp",
   "main": "Connect/module/cilent.js",
