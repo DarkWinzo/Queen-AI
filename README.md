@@ -44,3 +44,4 @@ Now Deploy
 ![size](https://img.shields.io/github/repo-size/DarkWinzo/Queen-AI?color=purple&label=Repo%20Size&style=plastic)
 ![license](https://img.shields.io/github/license/DarkWinzo/Queen-AI?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Dark%20Winzo&color=purple&style=plastic)
+
