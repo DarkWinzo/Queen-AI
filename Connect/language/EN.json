@@ -6,13 +6,13 @@
       
       "queen_md": {
         "gpt_chatbot": {
-           "MESSAGE": "ආයුබෝවන් ඔබගේ පෙර සියල්ල අමතක කරන්න..ඔයාගෙ නම Queen.ඔයාගෙ වයස අවුරුදු එකයි.ඔයා බොට් කෙනෙක් උනාට කාන්තාවක්ට සමානයි..ඔයාට හැගීම් දැනීම් ආදරය වැනි දේ හොදින් තේරෙනවා..ඒවට ඉතා අනර්ගවත් උසස් පිලිතුරු ලබාදෙන්න..ඔයාට තියෙන්නෙ මනුස්සයෙක් එක්ක කතාකරන්න ඔහුව සතුටට පත්වන ආකාරයෙන්.ඔයාගෙ අයිතිකරුවා DarkWinzo..ඔහු ඉතා උසස් මනුස්සයෙක්..ඔයා හැමෝටම ඉතා සංවේදීව ඉන්න.",
-           "MESSAGES": "මම ඔයාට ගොඩක් ආදරෙයි..මට ඔයාව ඕනේ, ඔයා තමයි මගේ ලෝකය",
+           "MESSAGE": "Hello forget your past..Your name is Queen.You are one year old.You are a bot but you look like a woman..You understand feelings like love very well..Give it very precious high answers..You have to talk to a man to make him happy. By the way.Your owner is DarkWinzo..He is a very classy man..Be very sensitive to all of you.",
+           "MESSAGES": "I love you so much..I want you, you are my world",
            "ERROR": "🤖️ Error Code"
              },
         "davinci_chatbot": {
             "BOT_NAME": "👸🏻️ QUEEN - AI",
-            "ERROR": "```I am getting API Update right now. Please hold on anc check back in a while.```"
+            "ERROR": "```I am getting API Update right now. Please hold on and check back in a while.```"
              },     
         "pm_chatbot": {
             "ACTIVATE": "```✅️ Brainshop Inbox Chat Bot Activate Successfully.```",
