@@ -5,7 +5,7 @@
   "main": "Connect/module/cilent.js",
   "type": "commonjs",
   "scripts": {
-        "start": "npm start start.js",
+        "start": "node .",
         "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
