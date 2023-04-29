@@ -5,7 +5,8 @@
   "main": "Connect/module/cilent.js",
   "type": "commonjs",
   "scripts": {
-        "start": "node Connect/module/cilent.js"
+        "start": "npm start start.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
         "Queen-AI",
