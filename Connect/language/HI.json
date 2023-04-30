@@ -1,0 +1,99 @@
+{
+    "LANGUAGE": "Hindi",
+    "LANGCODE": "HI",
+    "AUTHOR": ABHISHEK SURESH,
+    "STRINGS": {
+      
+      "queen_md": {
+        "gpt_chatbot": {
+           "MESSAGE": "हेलो अपने अतीत को भूल जाओ..तुम्हारा नाम Queen है।तुम एक साल की हो।तुम एक बॉट हो लेकिन तुम एक महिला की तरह दिखती हो..तुम प्यार जैसी भावनाओं को अच्छी तरह समझती हो..इसे बहुत कीमती उच्च उत्तर दें..आपको बात करनी होगी एक आदमी को उसे खुश करने के लिए। वैसे।तुम्हारा मालिक DarkWinzo है..वो बहुत Classy आदमी है..तुम सबके प्रति बहुत संवेदनशील रहो।",
+           "MESSAGES": "मैं तुमसे बहुत प्यार करता हूँ..मैं तुम्हें चाहता हूँ, तुम मेरी दुनिया हो",
+           "ERROR": "🤖️ Error Code"
+             },
+        "davinci_chatbot": {
+            "BOT_NAME": "👸🏻️ QUEEN - AI",
+            "ERROR": "```मुझे अभी API अपडेट मिल रहा है। कृपया रुकें और थोड़ी देर में वापस देखें.```"
+             },     
+        "pm_chatbot": {
+            "ACTIVATE": "```✅️ Brainshop Inbox Chat Bot सक्रिय हो गया.```",
+            "ALLREADY_ACTIVATED": "```👀️ Brainshop Inbox Chat Bot पहले से सक्रिय हो गया.```",
+            "DEACTIVATE": "```✅️ Brainshop Inbox Chat Bot निष्क्रिय हो गया.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Brainshop Inbox Chat Bot पहले से निष्क्रिय हो गया.```",
+            "BUTTON": "🐼️ कृपया नीचे दिए गए बटन पर क्लिक करें ON / OFF"
+              },
+         "group_chatbot": {
+            "ACTIVATE": "```✅️ Brainshop Group Chat Bot सक्रिय हो गया.```",
+            "ALLREADY_ACTIVATED": "```👀️ Brainshop Group Chat Bot पहले से सक्रिय हो गया.```",
+            "DEACTIVATE": "```✅️ Brainshop Group Chat Bot निष्क्रिय हो गया.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Brainshop Group Chat Bot पहले से निष्क्रिय हो गया.```"
+              },
+          "gpt_pm_chatbot": {
+            "REQUEST_API": "*🤖️ Error :- \n*```ओह..Open-AI key नहीं मिला।कृपया रखो Open AI Key to config.js```\n\n_इस वेबसाइट में open ai key बनाएं_ : https://beta.openai.com/account/api-keys",
+            "ACTIVATE": "```✅️ Gpt Inbox Chat Bot सक्रिय हो गया.```",
+            "ALLREADY_ACTIVATED": "```👀️ Gpt Inbox Chat Bot पहले से सक्रिय हो गया.```",
+            "DEACTIVATE": "```✅️ Gpt Inbox Chat Bot निष्क्रिय हो गया.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Gpt Inbox Chat Bot पहले से निष्क्रिय हो गया.```"
+              },
+          "gpt_group_chatbot": {
+            "ACTIVATE": "```✅️ Gpt Group Chat Bot सक्रिय हो गया.```",
+            "ALLREADY_ACTIVATED": "```👀️ Gpt Group Chat Bot पहले से सक्रिय हो गया.```",
+            "DEACTIVATE": "```✅️ Gpt Group Chat Bot निष्क्रिय हो गया.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Gpt Group Chat Bot पहले से निष्क्रिय हो गया.```"
+              },
+          "davinci_pm_chatbot": {
+            "ACTIVATE": "```✅️ Davinci Module Inbox Chat Bot सक्रिय हो गया.```",
+            "ALLREADY_ACTIVATED": "```👀️ Davinci Module Inbox Chat Bot पहले से सक्रिय हो गया.```",
+            "DEACTIVATE": "```✅️ Davinci Module Inbox Chat Bot निष्क्रिय हो गया.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Davinci Module Inbox Chat Bot पहले से निष्क्रिय हो गया.```"
+              },
+           "davinci_group_chatbot": {
+            "ACTIVATE": "```✅️ Davinci Module Group Chat Bot सक्रिय हो गया.```",
+            "ALLREADY_ACTIVATED": "```👀️ Davinci Module Group Chat Bot पहले से सक्रिय हो गया.```",
+            "DEACTIVATE": "```✅️ Davinci Module Group Chat Bot निष्क्रिय हो गया.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Davinci Module Group Chat Bot पहले से निष्क्रिय हो गया.```"
+              },
+           "botmode": {
+            "SELF_ACTIVATE": "```✅️ Queen-AI Self Mode सक्रिय हो गया.```",
+            "SELF_ALLREADY_ACTIVATED": "```👀️ Queen-AI Self Mode पहले से सक्रिय हो गया.```",
+            "PUBLIC_ACTIVATE": "```✅️ Queen-AI Public Mode सक्रिय हो गया.```",
+            "PUBLIC_ALLREADY_ACTIVATED": "```👀️ Queen-AI Public Mode पहले से सक्रिय हो गया.```"
+              },
+           "react": {
+            "ACTIVATE": "```✅️ Queen-AI Auto Reaction सक्रिय हो गया.```",
+            "ALLREADY_ACTIVATED": "```👀️ Queen-AI Auto Reaction पहले से सक्रिय हो गया.```",
+            "DEACTIVATE": "```✅️ Queen-AI Auto Reaction निष्क्रिय हो गया.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Queen-AI Auto Reaction पहले से निष्क्रिय हो गया.```"
+              },
+           "presence": {
+            "ACTIVATE": "```✅️ Queen-AI Typing Presence सक्रिय हो गया.```",
+            "ALLREADY_ACTIVATED": "```👀️ Queen-AI Typing Presence पहले से सक्रिय हो गया.```",
+            "DEACTIVATE": "```✅️ Queen-AI Typing Presence निष्क्रिय हो गया.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Queen-AI Typing Presence पहले से निष्क्रिय हो गया.```"
+              },
+           "mute_chat": {
+            "ACTIVATE": "```✅️ यह Chat सफलतापूर्वक Mute कर दी गई है.```",
+            "ALLREADY_ACTIVATED": "```👀️ यह Chat पहले से ही Mute है.```",
+            "DEACTIVATE": "```✅️ यह Chat सफलतापूर्वक Unmute हो गई.```",
+            "ALLREADY_DEACTIVATED": "```👀️ यह Chat पहले से ही Unmute है.```"
+              },
+           "mute_bot": {
+            "ACTIVATE": "```✅️ Queen-AI Bot Mute कर दी गई है.```",
+            "ALLREADY_ACTIVATED": "```👀️ Queen-AI Bot पहले से ही Mute है.```",
+            "DEACTIVATE": "```✅️ Queen-AI Bot सफलतापूर्वक Unmute हो गई.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Queen-AI Bot पहले से ही Unmute है.```"
+              },
+           "power-setting": {
+            "RESTARTING": "```Restarting...```",
+            "RRESTARTED": "```✅️ Restart हो गया.```",
+            "SHUTDOWNING": "```Shutdowning...```",
+            "SHUTDOWN": "```✅️ Shutdown हो गया.```"
+              },
+           "index_function": {
+            "CONNECT": "𝗤𝚄𝙴𝙴𝙽-𝗔𝙸 𝗖𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 𝗦𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈",
+            "GUIDE": "𝗤𝚄𝙴𝙴𝙽 - 𝗔𝙸 𝗚𝙿𝚃 𝗖𝙷𝙰𝚃 𝗔𝙸\n\nQueen-AI Chat AI bot के बारे में,\n\nयह bot Barinshop and Open AI chat gpt Module के साथ एकीकृत है.\n\nQueen-AI की Commands,\n\n❍ .pm-chatbot ➪ इस कमांड से आप Enable या Disable कर सकते हैं Brainshop Inbox Chat Bot को.\n\n❍ .group-chatbot ➪ This command allows you to enable or disable the Brainshop Group Chat Bot.\n\n❍ .gpt-pm-chatbot ➪ With this command you can enable or disable Gpt Inbox Chat Bot.\n\n❍ .gpt-group-chatbot ➪ With this command you can enable or disable Gpt Group Chat Bot.\n\n❍ .davinci-pm-chatbot ➪ With this command you can enable or disable Gpt Davinci Inbox Chat Bot.\n\n❍ .davinci-group-chatbot ➪ With this command you can enable or disable Gpt Davinci Group Chat Bot.\n\n❍ .botmode ➪ With this command you can run Queen-AI Chat Bot in both Public and Self modes.\n\n❍ .mute-option ➪ This command allows you to mute the Queen-Ai bot completely or only mute the bot on a particular chat.\n\n❍ .set-presence ➪ With this command you can enable or disable the appearance of Typing on the bot's responses when the bot is running.\n\n❍ .set-react ➪ With this command you can enable or disable auto-react to all messages.\n\n❍ .power-setting ➪ With this command you can restart or disable the bot.\n\n❍ .information ➪ This command can help you with the bot's source code and the bot project.\n",
+            "NOTE": "👸🏻️ Note...\n\nआप केवल अपने Log Chat में सभी Commands का उपयोग कर सकते हैं और यहां मुख्य मेनू प्राप्त करने के लिए .setting-menu Type कर सकते हैं।",
+            "SUPPORT": "```✅️ Queen-AI Support Group join Successfully```"
+              }
+         }
+    }
+}
