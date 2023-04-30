@@ -18,3 +18,22 @@
 ![license](https://img.shields.io/github/license/DarkWinzo/Queen-AI?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Dark%20Winzo&color=purple&style=plastic)
 
+#### A Little About This Bot
+- ```Fast Response``` 
+- ```AI ChatBot``` 
+- ```Supported Languages English,Malayalam,Sinhala And Hindi```
+---------
+#### Some Of The Features Include
+- [❖] .botmode
+- [❖] .pm-chatbot 
+- [❖] .group-chatbot 
+- [❖] .gpt-pm-chatbot 
+- [❖] .gpt-group-chatbot 
+- [❖] .davinci-pm-chatbot 
+- [❖] .davinci-group-chatbot
+- [❖] .mute-option
+- [❖] .set-presence
+- [❖] .set-react
+- [❖] .power-setting
+- [❖] .information
+---------
