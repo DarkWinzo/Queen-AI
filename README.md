@@ -9,8 +9,7 @@
 </p>
 
 
-
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDarkWinzo%2FQueen-AI&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+<div align="left"><br> <img src="https://profile-counter.glitch.me/DarkWinzo-Queen-AI/count.svg" /><br>Repo Viewers</div>
 
 ![forks](https://img.shields.io/github/forks/DarkWinzo/Queen-AI?label=Forks&style=social)
 ![stars](https://img.shields.io/github/stars/DarkWinzo/Queen-AI?style=social)
