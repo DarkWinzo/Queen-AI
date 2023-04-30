@@ -9,7 +9,7 @@
 </p>
 
 
-<div align="left"><br> <img src="https://profile-counter.glitch.me/DarkWinzo-Queen-AI/count.svg" /><br>Repo Viewers</div>
+<a align="left"><br> <img src="https://profile-counter.glitch.me/DarkWinzo-Queen-AI/count.svg" /><br>Repo Viewers</a>
 
 ![forks](https://img.shields.io/github/forks/DarkWinzo/Queen-AI?label=Forks&style=social)
 ![stars](https://img.shields.io/github/stars/DarkWinzo/Queen-AI?style=social)
