@@ -24,16 +24,13 @@
 - ```Supported Languages English,Malayalam,Sinhala And Hindi```
 ---------
 #### Some Of The Features Include
-- [❖] .botmode
-- [❖] .pm-chatbot 
-- [❖] .group-chatbot 
-- [❖] .gpt-pm-chatbot 
-- [❖] .gpt-group-chatbot 
-- [❖] .davinci-pm-chatbot 
-- [❖] .davinci-group-chatbot
-- [❖] .mute-option
-- [❖] .set-presence
-- [❖] .set-react
-- [❖] .power-setting
-- [❖] .information
+-  Self/Public Mode
+-  Inbox brainshop chatbot 
+-  Group brainshop chatbot 
+-  Gpt inbox chatbot 
+-  Gpt group chatbox 
+-  Davinci-pm-chatbot 
+-  Davinci-group-chatbot
+-  AI Image Generator
+-  ```And Many More Features```
 ---------
