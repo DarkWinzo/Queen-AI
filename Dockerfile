@@ -1,5 +1,5 @@
-FROM quay.io/darkwinzo/queen-ai:beta
-ENV TZ=Asia/Colombo
+FROM node:latest
+ENV TZ=Asia/Kolkata
 WORKDIR /root/Queen-AI/
 COPY package*.json ./
 RUN npm install
