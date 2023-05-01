@@ -580,17 +580,22 @@ async function startQueen() {
         }
 
     }
-
     return Queen
 }
 
-startQueen()
+app.get("/", (req, res) => {
+    res.send("");
+  });
+ app.listen(port, () => console.log(`📟 QUEEN-AI SYSTEM SERVER LISTENING PORT = http://localhost:${port} 📟`));
+setTimeout(() => {
+startQueen();
+}, 3000);
 
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
-	console.log(chalk.redBright("Update - 'index.js'"))
+	console.log(chalk.redBright("Update index.js"))
 	delete require.cache[file]
 	require(file)
 })
