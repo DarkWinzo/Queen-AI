@@ -1,4 +1,17 @@
-const { default: QueenConnect, useSingleFileAuthState, DisconnectReason, Browsers, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
+const { default: QueenConnect, 
+       useMultiFileAuthState, 
+       DisconnectReason, 
+       Browsers, 
+       fetchLatestBaileysVersion, 
+       generateForwardMessageContent, 
+       prepareWAMessageMedia, 
+       generateWAMessageFromContent, 
+       generateMessageID, 
+       downloadContentFromMessage, 
+       makeInMemoryStore, 
+       jidDecode, 
+       proto 
+       } = require("@adiwajshing/baileys");
 const config = require('../../config');
 const pino = require('pino');
 const fs = require('fs');
@@ -24,12 +37,11 @@ try {
   low = require('../lib/lowdb')
 }
 
-const { Low, JSONFile } = low
-const mongoDB = require('../lib/mongoDB')
+const { Low, JSONFile } = low;
+const mongoDB = require('../lib/mongoDB');
+const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' }) });
 
-const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' }) })
-
-global.opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse())
+global.opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse());
 global.db = new Low(
   /https?:\/\//.test(opts['db'] || '') ?
     new cloudDBAdapter(opts['db']) : /mongodb/.test(opts['db']) ?
@@ -58,18 +70,14 @@ global.loadDatabase = async function loadDatabase() {
 }
 loadDatabase()
 
-// Auto guardado de base de datos cada 30 Segundos
 if (global.db) setInterval(async () => {
     if (global.db.data) await global.db.write()
   }, 30 * 1000)
 
 async function startQueen() {
-      let { version, isLatest } = await fetchLatestBaileysVersion();
-       const { state, saveState } = useSingleFileAuthState(
-    "./session.Queen.json",
-    pino({ level: "silent" })
-  );  
-    const Queen = QueenConnect({
+     let { version, isLatest } = await fetchLatestBaileysVersion();
+     const { state, saveCreds } = await useMultiFileAuthState("./Connect/auth_info_baileys/", pino({ level: "silent" }) );
+     const Queen = QueenConnect({
                     logger: pino({ level: 'fatal' }),
                     auth: state,
                     printQRInTerminal: true,
@@ -85,7 +93,7 @@ async function startQueen() {
                     },
                     });
    
-            store.bind(Queen.ev)
+            store.bind(Queen.ev);
 //=======================================================[ AUTO BIO ]=====================================================//            
 //========================================================================================================================//    
     Queen.ev.on('messages.upsert', async chatUpdate => {
@@ -103,7 +111,6 @@ async function startQueen() {
         }
     });
     Queen.ev.on("connection.update", async (update) => { Connection(Queen, update, startQueen);});
-
     Queen.decodeJid = (jid) => {
         if (!jid) return jid
         if (/:\d+@/gi.test(jid)) {
@@ -138,9 +145,8 @@ async function startQueen() {
     }
     
     Queen.public = true
-    
     Queen.serializeM = (m) => smsg(Queen, m, store);
-    Queen.ev.on('creds.update', saveState);
+    Queen.ev.on('creds.update', saveCreds);
       
       /** 
             * Cambiar el tamaño de la imagen
