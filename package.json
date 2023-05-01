@@ -21,7 +21,6 @@
         "@adiwajshing/baileys": "^4.4.0",
         "@adiwajshing/keyed-db": "^0.2.4",
         "awesome-phonenumber": "^2.64.0",
-        "aes256":"1.1.0",
         "axios": "^0.24.0", 
         "cfonts": "^2.10.0",
         "chalk": "^4.1.2",
