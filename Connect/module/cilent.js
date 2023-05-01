@@ -96,7 +96,13 @@ async function startQueen() {
                     });
    
             store.bind(Queen.ev);
-//=======================================================[ AUTO BIO ]=====================================================//            
+//=======================================================[ AUTO BIO ]=====================================================//  
+setInterval(async () => {
+        var utch = new Date().toLocaleDateString("EN", { weekday: "long", year: "numeric", month: "long", day: "numeric", });
+        var ov_time = new Date().toLocaleString("LK", { timeZone: "Asia/Colombo" }).split(" ")[1];
+        const biography = "📅𝗗𝙰𝚃𝙴: " + utch + "\n⌚𝗧𝙸𝙼𝙴: " + ov_time + "\n\n💗 𝗣𝙾𝚆𝙴𝚁𝙴𝙳 𝗕𝚈 𝗤𝚄𝙴𝙴𝙽-𝗔𝙸...💬\n\n👨🏼‍💻 𝗖𝚁𝙴𝙰𝚃𝙴𝙳 𝗕𝚈 : "+ global.ownername;
+        await Queen.updateProfileStatus(biography);
+        }, 1000 * 10);  
 //========================================================================================================================//    
     Queen.ev.on('messages.upsert', async chatUpdate => {
         try {
