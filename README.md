@@ -18,19 +18,5 @@
 ![license](https://img.shields.io/github/license/DarkWinzo/Queen-AI?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Dark%20Winzo&color=purple&style=plastic)
 
-#### A Little About This Bot
-- ```Fast Response``` 
-- ```AI ChatBot``` 
-- ```Supported Languages English,Malayalam,Sinhala And Hindi```
----------
-#### Some Of The Features Include
--  Self/Public Mode
--  Inbox brainshop chatbot 
--  Group brainshop chatbot 
--  Gpt inbox chatbot 
--  Gpt group chatbox 
--  Davinci-pm-chatbot 
--  Davinci-group-chatbot
--  AI Image Generator
--  ```And Many More Features```
+#### comming soon...
 ---------
