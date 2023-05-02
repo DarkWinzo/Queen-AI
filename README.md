@@ -18,5 +18,7 @@
 ![license](https://img.shields.io/github/license/DarkWinzo/Queen-AI?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Dark%20Winzo&color=purple&style=plastic)
 
-#### comming soon...
+```
+### comming soon...
+```
 ---------
