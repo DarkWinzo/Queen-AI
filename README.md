@@ -5,8 +5,8 @@
 ## World Best Whatsapp AI Chat Bot With Multi language
 
 <a href="https://github.com/DarkWinzo/Queen-AI"><img src="https://i.ibb.co/zbMKwKZ/20230425-161348.jpg" alt="Queen-AI" width="400" /></a>
-
 </p>
+
 ![size](https://img.shields.io/github/repo-size/DarkWinzo/Queen-AI?color=purple&label=Repo%20Size&style=plastic)
 ![license](https://img.shields.io/github/license/DarkWinzo/Queen-AI?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Dark%20Winzo&color=purple&style=plastic)
