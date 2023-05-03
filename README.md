@@ -11,6 +11,9 @@
 ![license](https://img.shields.io/github/license/DarkWinzo/Queen-AI?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Dark%20Winzo&color=purple&style=plastic)
 
+![forks](https://img.shields.io/github/forks/DarkWinzo/Queen-AI?label=Forks&style=social)
+![stars](https://img.shields.io/github/stars/DarkWinzo/Queen-AI?style=social)
+
 <a align="left"><br> <img src="https://profile-counter.glitch.me/DarkWinzo-Queen-AI/count.svg" /><br>Repo Viewers</a>
 
 ## What is Queen-AI ?
@@ -36,6 +39,4 @@ WAIT IT RELEASE SOON...
 
 *Bot Modes Avalible (Private/Public)*
 
-![forks](https://img.shields.io/github/forks/DarkWinzo/Queen-AI?label=Forks&style=social)
-![stars](https://img.shields.io/github/stars/DarkWinzo/Queen-AI?style=social)
 
