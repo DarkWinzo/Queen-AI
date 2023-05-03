@@ -11,10 +11,16 @@
 
 <a align="left"><br> <img src="https://profile-counter.glitch.me/DarkWinzo-Queen-AI/count.svg" /><br>Repo Viewers</a>
 
-### Discription
+## What is Queen-AI ?
 *Queen-AI Is A Multi Language Supported ArtiFicial intelligent(AI) Whatsapp ChatBot Coded By DarkWinzo And Team This Bot Is Maded For Helping Purpose.*
 
-### Features
+## How to make (Deploy) Queen-AI for my whatsapp ?
+```
+WAIT IT RELEASE SOON...
+```
+
+### Queen-AI Features
+
 *Pm ChatBot*
 
 *Group ChatBot*
@@ -23,9 +29,9 @@
 
 *Working Languages*
 
-*Hindi,Sinhala,Malayalam And English*
+*Hindi,Sinhala,Malayalam,Urdu And English*
 
-*2Modes Avalible Private/Public*
+*Bot Modes Avalible (Private/Public)*
 
 ![forks](https://img.shields.io/github/forks/DarkWinzo/Queen-AI?label=Forks&style=social)
 ![stars](https://img.shields.io/github/stars/DarkWinzo/Queen-AI?style=social)
