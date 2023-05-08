@@ -1,6 +1,4 @@
-> Easy Deploy
-> Many Chat Module
-> Open source 
+> Easy Deploy   > Many Chat Module  > Open source 
 
 ## Scan Qr
 <a href="https://boscoscanner.herokuapp.com/"><img title="SCAN QR" src="https://img.shields.io/badge/SCAN QR-h?color=black&style=for-the-badge&logo="></a>
