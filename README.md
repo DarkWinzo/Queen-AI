@@ -2,6 +2,7 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tourney&duration=3500&pause=1000&color=510179A9&height=105&lines=QUEEN+-+AI+;WHATSAPP+USER+CHAT+BOT;WITH+ARTIFICIAL-INTELLIGENCE;CODED+BY+DARKWINZO)](https://git.io/typing-svg)
 
+ </div>
  
 > Easy Deploy   
 
