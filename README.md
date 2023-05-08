@@ -1,6 +1,6 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tourney&size=40&duration=3500&pause=1000&color=510179A9&width=750&height=120&lines=QUEEN+-+AI+;WHATSAPP+USER+CHAT+BOT;WITH+ARTIFICIAL-INTELLIGENCE;CODED+BY+DARKWINZO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tourney&size=40&duration=3500&pause=1000&color=510179A9&width=750&height=180&lines=QUEEN+-+AI+;WHATSAPP+USER+CHAT+BOT;WITH+ARTIFICIAL-INTELLIGENCE;CODED+BY+DARKWINZO)](https://git.io/typing-svg)
  
 </div>
  
