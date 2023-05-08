@@ -1,5 +1,6 @@
 <p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tourney+Ace+SC&duration=3500&pause=1000&color=510179A9&height=65&lines=QUEEN+-+AI+;WHATSAPP+USER+CHAT+BOT;WITH+ARTIFICIAL-INTELLIGENCE;CODED+BY+DARKWINZO)](https://git.io/typing-svg)
+
 </p>
  
 > Easy Deploy   
