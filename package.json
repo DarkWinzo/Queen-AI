@@ -53,6 +53,7 @@
         "request": "^2.88.2",
         "simple-git": "^3.17.0",
         "util": "^0.12.5",
+        "x-asena": "^1.0.1",
         "yargs": "^17.7.1"
   },
   "repository": {
