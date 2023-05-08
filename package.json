@@ -3,20 +3,15 @@
   "version": "1.0.0",
   "description": "World Best Multi Language Simple AI chat bot for whatsapp",
   "main": "Connect/module/cilent.js",
-  "type": "commonjs",
   "scripts": {
-        "start": "node .",
-        "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node start.js"
   },
-  "keywords": [
-        "Queen-AI",
-        "Chat Bot",
-        "Chat gpt",
-        "Brainshop",
-        "DarkWinzo"
-  ],
   "author": "DarkWinzo",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DarkWinzo/Queen-AI/issues"
+  },
+  "homepage": "https://github.com/DarkWinzo/Queen-AI#readme",
   "dependencies": {
         "@adiwajshing/baileys": "^4.4.0",
         "@adiwajshing/keyed-db": "^0.2.4",
@@ -60,17 +55,8 @@
         "util": "^0.12.5",
         "yargs": "^17.7.1"
   },
-  "directories": {
-        "lib": "Connect/lib",
-        "src": "Connect/src"
-  },
-  "devDependencies": {},
   "repository": {
-        "type": "git",
-        "url": "git+https://github.com/DarkWinzo/Queen-AI.git"
-  },
-  "bugs": {
-        "url": "https://github.com/DarkWinzo/Queen-AI/issues"
-  },
-  "homepage": "https://github.com/DarkWinzo/Queen-AI#readme"
+    "type": "git",
+    "url": "git+https://github.com/DarkWinzo/Queen-AI.git"
+  }
 }
