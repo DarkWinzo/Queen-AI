@@ -13,7 +13,7 @@
   },
   "homepage": "https://github.com/DarkWinzo/Queen-AI#readme",
   "dependencies": {
-        "@adiwajshing/baileys": "^4.4.0",
+        "@adiwajshing/baileys": "github:WhiskeySockets/Baileys",
         "@adiwajshing/keyed-db": "^0.2.4",
         "awesome-phonenumber": "^2.64.0",
         "axios": "^0.24.0", 
