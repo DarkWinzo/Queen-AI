@@ -26,6 +26,3 @@ Project license => MIT
 Project Team => DarkSide Team
 `
 
-`
-Modules => Basic Modules
-`
