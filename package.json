@@ -8,6 +8,10 @@
   },
   "author": "DarkWinzo",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkWinzo/Queen-AI.git"
+  },
   "bugs": {
     "url": "https://github.com/DarkWinzo/Queen-AI/issues"
   },
@@ -55,9 +59,5 @@
         "util": "^0.12.5",
         "x-asena": "^1.0.1",
         "yargs": "^17.7.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DarkWinzo/Queen-AI.git"
   }
 }
