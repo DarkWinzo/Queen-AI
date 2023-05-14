@@ -17,7 +17,7 @@
 ---
 # Deployment Methods
 
-<a href="https://github.com/DarkWinzo/Queen-AI/wiki/Queen-AI-Deploy"><img title="DEPLOY" src="https://img.shields.io/badge/DEPLOY-h?color=black&style=for-the-badge&logo=rotaryinternational"></a>
+<a href="https://github.com/DarkWinzo/Queen-AI/wiki/"><img title="DEPLOY" src="https://img.shields.io/badge/DEPLOY-h?color=black&style=for-the-badge&logo=rotaryinternational"></a>
 
 <a href="https://github.com/DarkWinzo"><img title="Deploy Support" src="https://img.shields.io/badge/Deploy%20instructions-Touch%20Here-yellow.svg?style=for-the-badge&logo=mdbook" /></a>  
 
