@@ -13,6 +13,7 @@
 
 </div>
  
+> Please Give Me a Star for Repo
 
 ## Scan Qr
 <a href="https://queen-ai-qr.vercel.app/"><img title="SCAN QR" src="https://img.shields.io/badge/SCAN QR-h?color=black&style=for-the-badge&logo="></a>
