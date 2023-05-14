@@ -6,36 +6,13 @@
                                 ┃╰━╯┃╰━╯┃╰━━┫╰━━┫┃ ┃┃┃╰━━╯┃╭━╮┣┫┣╮
                                 ╰━━╮┣━━━┻━━━┻━━━┻╯ ╰━╯    ╰╯ ╰┻━━╯
                                    ╰╯
-`
-Project Name => Queen-AI
-`
 
-`
-Project Version => 1.0.0  
-`
-
-`
-Project Author => DarkWinzo
-`
-
-`
-Project license => MIT
-`
-
-`
-Project Team => DarkSide Team
-`
 
 
 <div align="center">
 
 </div>
  
-> Easy Deploy   
-
-> Many Chat Module  
-
-> Open source 
 
 ## Scan Qr
 <a href="https://queen-ai-qr.vercel.app/"><img title="SCAN QR" src="https://img.shields.io/badge/SCAN QR-h?color=black&style=for-the-badge&logo="></a>
