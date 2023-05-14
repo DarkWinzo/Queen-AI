@@ -37,7 +37,7 @@
 			"value": ""
 		},
 		"LANGUAGE": {
-			"description": "Enter bot working language EN / SI / ML",
+			"description": "Enter bot working language EN / SI / ML / UR / HI",
 			"required": true,
 			"value": "EN"
 		}
