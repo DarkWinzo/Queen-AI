@@ -15,10 +15,10 @@
  
 > Please Give Me a Star for Repo
 
-## Scan Qr
-<a href="https://queen-ai-qr.vercel.app/"><img title="SCAN QR" src="https://img.shields.io/badge/SCAN QR-h?color=black&style=for-the-badge&logo="></a>
-
-## Deploy
+# Deployment Methods
+ <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20AI%20Deploy%20instructions-Touch%20Here-orange.svg?style=for-the-badge&logo=mdbook" /></a>   
+---
+## Click Here To Deploy
 <a href="https://github.com/DarkWinzo/Queen-AI/wiki/Queen-AI-Deploy"><img title="DEPLOY" src="https://img.shields.io/badge/DEPLOY-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 ## Queen-AI
