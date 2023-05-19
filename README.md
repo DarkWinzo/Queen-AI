@@ -15,7 +15,7 @@
  
 > Please Give Me a Star for Repo
 
->Please Use Mod Whatsapp For Looking Menu  
+>Please Use Mod Whatsapp For Looking Menu (Because Normal Whatsapp User Not show Menu.)  
 ---
 # Deployment Methods
 
