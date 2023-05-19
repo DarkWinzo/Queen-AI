@@ -28,7 +28,7 @@ global.ownername = process.env.OWNER_NAME || "DarkWinzo"; //Queen-AI Owner Name 
 
 global.ownernumber = process.env.OWNER_NUMBER || "94775200935"; //Owner whatsapp number here
 
-global.language = process.env.LANGUAGE || "EN"; //Enter bot working language EN = English / SI = Sinhala /ML = Malayalam /HI =Hindi /UR = Urdu
+global.language = process.env.LANGUAGE || "SI"; //Enter bot working language EN = English / SI = Sinhala /ML = Malayalam /HI =Hindi /UR = Urdu
 
 global.prefix = ['.'] //Don't Change
 
