@@ -6,7 +6,16 @@
                   ┃╰━╯┃╰━╯┃╰━━┫╰━━┫┃ ┃┃┃╰━━╯┃╭━╮┣┫┣╮
                   ╰━━╮┣━━━┻━━━┻━━━┻╯ ╰━╯    ╰╯ ╰┻━━╯
                      ╰╯
+Hi I'm Queen-AI Whatsapp Chat Bot
 
+• version
+  1.0.0
+  
+• Team
+  DarkSide
+  
+• currently language,
+  English & Sinhala & Urdu & Malay & Hindi
 ```
 
 <div align="center">
