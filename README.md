@@ -8,14 +8,14 @@
                      ╰╯
 Hi I'm Queen-AI Whatsapp Chat Bot
 
-• version
-  1.0.0
+• __version__  == "__1.0.0__":
+    return print("1.0.0")
+    
+• __Team__ == "__Technical Hacking Team__":
+    return print("Technical Hacking Team")
   
-• Team
-  DarkSide
-  
-• currently language,
-  English & Sinhala & Urdu & Malay & Hindi
+• __Currently Language__ == "__English & Sinhala & Urdu & Malay & Hindi__":
+    return print("English & Sinhala & Urdu & Malay & Hindi")
 ```
 
 <div align="center">
