@@ -14,7 +14,7 @@ Hi I'm Queen-AI Whatsapp Chat Bot
 • __Team__ == "__Technical Hacking Team__":
     return print("Technical Hacking Team")
   
-• __Currently-Language__ == "__English & Sinhala & Urdu & Malay & Hindi__":
+• __Currently_Language__ == "__English & Sinhala & Urdu & Malay & Hindi__":
     return print("English & Sinhala & Urdu & Malay & Hindi")
 ```
 
