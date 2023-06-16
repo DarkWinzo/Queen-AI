@@ -23,13 +23,11 @@ Hi I'm Queen-AI Whatsapp Chat Bot
 </div>
 
 ```
-Qr Code Error fix
+Qr Code Error fix..Please Wait......
 ```
-
+> Advance Chat got Whatsapp Bot
  
 > Please Give Me a Star for Repo
-
-> This is chatbot 📌
 
 > Please Use Mod Whatsapp For Looking Menu (Because Normal Whatsapp User Not show Menu.)  
 ---
