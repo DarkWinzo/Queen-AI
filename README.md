@@ -14,7 +14,7 @@ Hi I'm Queen-AI Whatsapp Chat Bot
 • __Team__ == "__Technical Hacking Team__":
     return print("Technical Hacking Team")
   
-• __Currently_Language__ == "__English & Sinhala & Urdu & Malay & Hindi__":
+• __Currently_Language__ == "__English & Sinhala & Urdu & Malayalam & Hindi__":
     return print("English & Sinhala & Urdu & Malay & Hindi")
 ```
 
@@ -27,7 +27,7 @@ Qr Code Error fix..Please Wait......
 ```
 > Advance Chat got Whatsapp Bot
  
-> Please Give Me a Star for Repo
+> Please Give A Star On Repo
 
 > Please Use Mod Whatsapp For Looking Menu (Because Normal Whatsapp User Not show Menu.)  
 ---
