@@ -11,7 +11,7 @@
 ## Project Author => DarkWinzo
 ## Project license => MIT
 ## Project Team => DarkSide Team
-## Module Name => MultiAuth.js
+## Module Name => cilent.js
 ## Thank for Hisoka-Morou-MD
 ***/ 
 
