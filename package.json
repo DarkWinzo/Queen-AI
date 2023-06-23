@@ -4,7 +4,13 @@
   "description": "World Best Multi Language Simple AI chat bot for whatsapp",
   "main": "Connect/module/cilent.js",
   "scripts": {
-    "start": "node start.js"
+    "package": "sudo yarn install -y git ffmpeg ImageMagick nodejs yarnpkg libwebp",
+    "start": " node index.js",
+    "pm-run": "sudo yarn global add pm2 && pm2 start index.js --name QUEEN && pm2 log QUEEN",
+    "pm-restart": "pm2 restart QUEEN"
+  },
+  "engines" : { 
+    "node" : ">=14.19.3"
   },
   "author": "DarkWinzo",
   "license": "MIT",
