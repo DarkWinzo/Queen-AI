@@ -6,7 +6,7 @@
                   ┃╰━╯┃╰━╯┃╰━━┫╰━━┫┃ ┃┃┃╰━━╯┃╭━╮┣┫┣╮
                   ╰━━╮┣━━━┻━━━┻━━━┻╯ ╰━╯     ╰╯ ╰┻━━╯
                      ╰╯
-Hi I'm Queen-AI Whatsapp Chat Bot
+Hi I'm Queen-AI Whatsapp chatgpt Chat Bot
 
 • __version__  == "__1.0.0__":
     return print("1.0.0")
@@ -23,9 +23,9 @@ Hi I'm Queen-AI Whatsapp Chat Bot
 </div>
 
 ```
-Qr Code Error fix..Please Wait......
+This Menu os only Available Bot Owner Number.So Use Mod Whatsapp For Better Experience...
 ```
-> Advance Chat got Whatsapp Bot
+> Advance Chat gpt AI Whatsapp Bot
  
 > Please Give A Star On Repo
 
@@ -35,9 +35,9 @@ Qr Code Error fix..Please Wait......
 
 <a href="https://github.com/DarkWinzo/Queen-AI/wiki/"><img title="DEPLOY" src="https://img.shields.io/badge/DEPLOY-h?color=black&style=for-the-badge&logo=rotaryinternational"></a>
 
-<a href="https://github.com/DarkWinzo"><img title="Deploy Support" src="https://img.shields.io/badge/Deploy%20instructions-Touch%20Here-yellow.svg?style=for-the-badge&logo=mdbook" /></a>  
+<a href="https://github.com/DarkWinzo/Queen-AI.wiki.git"><img title="Deploy Support" src="https://img.shields.io/badge/Deploy%20instructions-Touch%20Here-yellow.svg?style=for-the-badge&logo=mdbook" /></a>  
 
-## Support
+## Support Group
 
-<a href="https://github.com/DarkWinzo"><img title="Queen-AI Support" src="https://img.shields.io/badge/Queen%20AI%20Deploy%20Help-Touch%20Here-green.svg?style=for-the-badge&logo=homeassistantcommunitystore" /></a>
+<a href="https://chat.whatsapp.com/CZQwGCvcyNKIVW3gPF7GqX"><img title="Queen-AI Support" src="https://img.shields.io/badge/Queen%20AI%20Deploy%20Help-Touch%20Here-green.svg?style=for-the-badge&logo=homeassistantcommunitystore" /></a>
 
