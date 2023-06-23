@@ -30,7 +30,7 @@ So Use Mod Whatsapp For Better Experience...
 ```
 Menu Command ==> .setting-menu
 ```
-> [***For Looking Queen-AI All Commands***](github.com/DarkWinzo)
+> (***For Looking Queen-AI All Commands***)[https://github.com/DarkWinzo/Queen-AI.wiki.git]
 
 > Advance Chat gpt AI Whatsapp Bot
  
