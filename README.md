@@ -23,12 +23,14 @@ Hi I'm Queen-AI Whatsapp chatgpt Chat Bot
 </div>
 
 ```
-This Menu os only Available Bot Owner Number.So Use Mod Whatsapp For Better Experience...
+This Menu os only Available Bot Owner Number.
+So Use Mod Whatsapp For Better Experience...
 ```
 
 ```
 Menu Command ==> .setting-menu
 ```
+**For Looking Queen-AI All Commands**
 
 > Advance Chat gpt AI Whatsapp Bot
  
