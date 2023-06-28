@@ -5,8 +5,8 @@
   "main": "Connect/module/cilent.js",
   "scripts": {
     "package": "sudo yarn install -y git ffmpeg ImageMagick nodejs yarnpkg libwebp",
-    "start": " node index.js",
-    "pm-run": "sudo yarn global add pm2 && pm2 start index.js --name QUEEN && pm2 log QUEEN",
+    "start": " node start.js",
+    "pm-run": "sudo yarn global add pm2 && pm2 start start.js --name QUEEN && pm2 log QUEEN",
     "pm-restart": "pm2 restart QUEEN"
   },
   "author": "DarkWinzo",
