@@ -24,7 +24,7 @@ const { default: QueenConnect,
        prepareWAMessageMedia, 
        generateWAMessageFromContent, 
        generateMessageID, 
-       makeCacheableSignalKeyStore, //Imlossible
+       makeCacheableSignalKeyStore,
        downloadContentFromMessage, 
        makeInMemoryStore, 
        jidDecode, 
