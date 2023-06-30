@@ -135,6 +135,7 @@ async function startQueen() {
                     },
                     });
         */
+       const logger = pino({ level: 'fatal' });//Imposible
        const Queen = QueenConnect({
                     logger: pino({ level: 'fatal' }),
                     printQRInTerminal: true,
