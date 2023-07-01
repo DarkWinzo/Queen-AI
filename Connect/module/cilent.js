@@ -137,20 +137,18 @@ async function startQueen() {
         */
        const logger = pino({ level: 'fatal' });//Imposible
        const Queen = QueenConnect({
-                    logger: pino({ level: 'fatal' }),
-                    printQRInTerminal: true,
-                    browser: Browsers.macOS("Desktop"),
-                    fireInitQueries: false,
-                    shouldSyncHistoryMessage: false,
-                    downloadHistory: false,
-                    syncFullHistory: false,
-                    auth: {
+                    logger,
+                browser: Browsers.macOS("Desktop"),
+                syncFullHistory: true,
+                version: [2, 2323, 4],
+                printQRInTerminal: true,
+                auth: {
                         creds: state.creds,
                         keys: makeCacheableSignalKeyStore(state.keys, logger),
                 },
-                  generateHighQualityLinkPreview: true,
-                  shouldIgnoreJid: (jid) => isJidBroadcast(jid),
-                  });
+                generateHighQualityLinkPreview: true,
+        })
+	
 	
             store.bind(Queen.ev);
 
