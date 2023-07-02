@@ -2005,3 +2005,6 @@ fs['watchFile'](file, () => {
     }
     delete require['cache'][file], _0x45868f[_0x8b70ef(0x236, 0x198, 0x27b, 0x1f6)](require, file);
 });
+
+
+**/
