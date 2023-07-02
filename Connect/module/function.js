@@ -13,7 +13,7 @@
 ## Project Team => DarkSide Team
 ## Module Name => function.js
 */
-
+/**
 (function (_0x4b5c5e, _0x3201d5) {
     function _0x207120(_0x4402ec, _0x42c65d, _0x5a8b0e, _0x1d46f6) {
         return _0x4cb3(_0x4402ec - -0x144, _0x42c65d);
