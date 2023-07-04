@@ -1,4 +1,4 @@
-/***
+/*
                                 ╭━━━┳╮ ╭┳━━━┳━━━┳━╮ ╭╮    ╭━━━┳━━╮
                                 ┃╭━╮┃┃ ┃┃╭━━┫╭━━┫┃╰╮┃┃    ┃╭━╮┣┫┣╯
                                 ┃┃ ┃┃┃ ┃┃╰━━┫╰━━┫╭╮╰╯┃    ┃┃ ┃┃┃┃
@@ -13,7 +13,7 @@
 ## Project Team => DarkSide Team
 ## Module Name => config.js
 ## Coded By DarkWinzo
-***/ 
+*/ 
 
 const fs = require('fs');
 const chalk = require('chalk');
