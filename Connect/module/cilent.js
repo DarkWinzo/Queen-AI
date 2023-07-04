@@ -1,4 +1,4 @@
-/***
+/*
                                 ╭━━━┳╮ ╭┳━━━┳━━━┳━╮ ╭╮    ╭━━━┳━━╮
                                 ┃╭━╮┃┃ ┃┃╭━━┫╭━━┫┃╰╮┃┃    ┃╭━╮┣┫┣╯
                                 ┃┃ ┃┃┃ ┃┃╰━━┫╰━━┫╭╮╰╯┃    ┃┃ ┃┃┃┃
@@ -13,7 +13,7 @@
 ## Project Team => DarkSide Team
 ## Module Name => cilent.js
 ## Thank for Hisoka-Morou-MD
-***/ 
+*/ 
 
 const { default: QueenConnect, 
        useMultiFileAuthState, 
