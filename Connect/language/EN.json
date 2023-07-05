@@ -68,6 +68,12 @@
             "DEACTIVATE": "```✅️ Queen-AI Typing Presence Deactivate Successfully.```",
             "ALLREADY_DEACTIVATED": "```👀️ Queen-AI Typing Presence Allready Deactivated.```"
               },
+           "read_message": {
+            "ACTIVATE": "```✅️ Queen-AI is successfully activated to read your messages.```",
+            "ALLREADY_ACTIVATED": "```👀️ Queen-AI is Allready Activated to read your messages.```",
+            "DEACTIVATE": "```✅️ Queen-AI is Deactivated to read your messages.```",
+            "ALLREADY_DEACTIVATED": "```👀 Queen-AI is Allready Deactivated to read your messages.```"
+              },
            "mute_chat": {
             "ACTIVATE": "```✅️ This chat Mute Successfully.```",
             "ALLREADY_ACTIVATED": "```👀️ This chat Allready Muted.```",
@@ -95,14 +101,14 @@
            "ai_img": {
             "TEXT": "```Reply with the name of the picture you want.```",
             "SEARCH": "```🔎 Search for the picture....```",
-            "ERROR": "```❌ කණගාටුයි.මට කිසිවක් හමු නොවිණි.```"
+            "ERROR": "```❌ Sorry, I didn't find anything.```"
              },
            "texttospeech": {
-            "TEXT": "```🤖 ඔබට Text To Speech මගින් පැවසීමට අවශ්‍ය පෙල ඇතුලත් කරන්න.```"
+            "TEXT": "```🤖 Enter the text you want to say through Text To Speech.```"
              },
            "translate": {
-            "TEXT": "ඔබට පරිවර්තනය කිරීමට අවශ්‍ය පෙල කුමක්ද?```",
-            "ERROR": "```❌ කණගාටුයි..කිසියම් දෝශයක් ඇතිවීම හේතුවෙන් පරිවර්තනය කිරීමට අපහසුයි.```"
+            "TEXT": "```What text do you want to translate?```",
+            "ERROR": "```❌ Sorry..difficult to translate due to some error```"
              },
            "index_function": {
             "CONNECT": "𝗤𝚄𝙴𝙴𝙽-𝗔𝙸 𝗖𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 𝗦𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈",
