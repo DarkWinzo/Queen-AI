@@ -23,12 +23,14 @@ Hi I'm Queen-AI Whatsapp chatgpt Chat Bot
 </div>
 
 ```
-This Menu os only Available Bot Owner Number.
-So Use Mod Whatsapp For Better Experience...
+Deploy Strong Platform For Better Experience...
 ```
 ```Note : This is Chatgpt Chat Bot.So Only Can Queen-AI Control Bot Owner```
 ```
-Menu Command ==> .setting-menu
+Menu Command ==> .menu
+
+Setting Menu Command ==> .setting-menu
+
 ```
 > [***For Looking Queen-AI All Commands***](https://github.com/DarkWinzo/Queen-AI/wiki/Queen-AI-Commands)
 
@@ -36,7 +38,6 @@ Menu Command ==> .setting-menu
  
 > Please Give A Star On Repo
 
-> Please Use Mod Whatsapp For Looking Menu (Because Normal Whatsapp User Not show Menu.)  
 ---
 # Deployment Methods
 
