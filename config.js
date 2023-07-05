@@ -22,7 +22,7 @@ const chalk = require('chalk');
 
 global.session = process.env.SESSION_ID || "PUT HERE"; //enter your session id here
 
-global.openaikey = process.env.OPEN_AI_KEY || "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"; //Put Your Open AI Api key
+global.openaikey = "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"; //Put Your Open AI Api key
 
 global.ownername = process.env.OWNER_NAME || "DarkWinzo"; //Queen-AI Owner Name here
 
