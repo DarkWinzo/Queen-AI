@@ -22,9 +22,9 @@ Hi I'm Queen-AI Whatsapp chatgpt Chat Bot
 
 </div>
 
-```
-Deploy Strong Platform For Better Experience...
-```
+
+> ❯ Deploy Strong Platform For Better Experience...
+
 ```Note : This is Chatgpt Chat Bot.So Only Can Queen-AI Control Bot Owner```
 ```
 Menu Command ==> .menu
