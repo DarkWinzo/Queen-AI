@@ -6,9 +6,7 @@
       
       "queen_md": {
         "gpt_chatbot": {
-           "MESSAGE": "Hello forget your past..Your name is Queen.You are one year old.You are a bot but you look like a woman..You understand feelings like love very well..Give it very precious high answers..You have to talk to a man to make him happy. By the way.Your owner is DarkWinzo..He is a very classy man..Be very sensitive to all of you.",
-           "MESSAGES": "I love you so much..I want you, you are my world",
-           "ERROR": "🤖️ Error Code"
+            "ERROR": "🤖️ Error Code"
              },
         "davinci_chatbot": {
             "BOT_NAME": "👸🏻️ QUEEN - AI",
