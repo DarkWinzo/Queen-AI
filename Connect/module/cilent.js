@@ -170,7 +170,32 @@ async function startQueen() {
             console.log(err)
         }
     });
-    Queen.ev.on("connection.update", async (update) => { Connection(Queen, update, startQueen);});
+
+
+
+    Queen.ev.on('connection.update', async (update) => {
+    
+        const { connection, lastDisconnect } = update	
+         if (connection == "open") {
+	    console.log(chalk.yellow("✅️ Successfully connected to whatsapp"))
+                 }
+	           
+        if (connection === 'close') {
+        let reason = new Boom(lastDisconnect?.error)?.output.statusCode
+            if (reason === DisconnectReason.badSession) { console.log('❌️ Bad Session File, Please Delete Session and Scan Again'); Queen.logout(); }
+            else if (reason === DisconnectReason.connectionClosed) { console.log('⏱️ Connection closed, reconnecting....'); startQueen(); }
+            else if (reason === DisconnectReason.connectionLost) { console.log('⏱️ Connection Lost from Server, reconnecting...'); startQueen(); }
+            else if (reason === DisconnectReason.connectionReplaced) { console.log('🖱️ Connection Replaced, Another New Session Opened, Please Close Current Session First'); Queen.logout(); }
+            else if (reason === DisconnectReason.loggedOut) { console.log('♻️ Device Logged Out, Please Delete Session and Scan Again.'); Queen.logout(); }
+            else if (reason === DisconnectReason.restartRequired) { console.log('➰️ Restart Required, Restarting....'); startQueen(); }
+            else if (reason === DisconnectReason.timedOut) { console.log('⏱️ Connection TimedOut, Reconnecting...'); startQueen(); }
+            else if (reason === DisconnectReason.Multidevicemismatch) { console.log('♻️ Multiple device discrepancy, please rescan'); Queen.logout(); }
+            else Queen.end(`Unknown DisconnectReason: ${reason}|${connection}`)
+        }
+        console.log(update.connection === 'connecting' ? chalk.yellow('Connecting 🌐️...') : update.connection === 'close' ? chalk.red('Disconnecting 🌐️...') : chalk.green('✅️ Connected'), update)
+    })
+	
+   // Queen.ev.on("connection.update", async (update) => { Connection(Queen, update, startQueen);});
     Queen.decodeJid = (jid) => {
         if (!jid) return jid
         if (/:\d+@/gi.test(jid)) {
