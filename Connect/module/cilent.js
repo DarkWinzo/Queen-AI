@@ -114,7 +114,6 @@ if (global.db) setInterval(async () => {
 async function startQueen() {
      let { version, isLatest } = await fetchLatestBaileysVersion();
      const { state, saveCreds } = await useMultiFileAuthState("./Connect/auth_info_baileys/", pino({ level: "silent" }) );
-    /*
      const Queen = QueenConnect({
                     logger: pino({ level: 'fatal' }),
                     auth: state,
@@ -130,21 +129,7 @@ async function startQueen() {
                     conversation: null,
                     },
                     });
-        */
-       const logger = pino({ level: 'fatal' });//Imposible
-       const Queen = QueenConnect({
-                    logger,
-                browser: Browsers.macOS("Desktop"),
-                syncFullHistory: true,
-                version: [2, 2323, 4],
-                printQRInTerminal: true,
-                auth: {
-                        creds: state.creds,
-                        keys: makeCacheableSignalKeyStore(state.keys, logger),
-                },
-                generateHighQualityLinkPreview: true,
-        })
-	
+        
 	
             store.bind(Queen.ev);
 
