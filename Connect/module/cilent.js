@@ -113,7 +113,7 @@ if (global.db) setInterval(async () => {
 
 async function startQueen() {
      let { version, isLatest } = await fetchLatestBaileysVersion();
-     const { state, saveCreds } = await useMultiFileAuthState("./Connect/auth_info_baileys/", pino({ level: "silent" }) );
+     const { state, saveCreds } = await useMultiFileAuthState("./Connect/session/", pino({ level: "silent" }) );
      const Queen = QueenConnect({
                     logger: pino({ level: 'fatal' }),
                     auth: state,
