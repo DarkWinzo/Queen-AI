@@ -8,6 +8,9 @@
         "gpt_chatbot": {
             "ERROR": "🤖️ Error Code"
              },
+        "simsimi_chatbot": {
+            "ERROR": "```❌ An error has occurred.```"
+             },
         "davinci_chatbot": {
             "BOT_NAME": "👸🏻️ QUEEN - AI",
             "ERROR": "```I am getting API Update right now. Please hold on and check back in a while.```"
@@ -16,8 +19,7 @@
             "ACTIVATE": "```✅️ Brainshop Inbox Chat Bot Activate Successfully.```",
             "ALLREADY_ACTIVATED": "```👀️ Brainshop Inbox Chat Bot Allready Activated.```",
             "DEACTIVATE": "```✅️ Brainshop Inbox Chat Bot Deactivate Successfully.```",
-            "ALLREADY_DEACTIVATED": "```👀️ Brainshop Inbox Chat Bot Allready Deactivated.```",
-            "BUTTON": "🐼️ Please Click the Button Below ON / OFF"
+            "ALLREADY_DEACTIVATED": "```👀️ Brainshop Inbox Chat Bot Allready Deactivated.```"
               },
          "group_chatbot": {
             "ACTIVATE": "```✅️ Brainshop Group Chat Bot Activate Successfully.```",
