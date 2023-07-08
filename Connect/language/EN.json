@@ -29,15 +29,15 @@
               },
           "simsimi_pm_chatbot": {
             "ACTIVATE": "```✅️ Simsimi Inbox Chat Bot Activate Successfully.```",
-            "ALLREADY_ACTIVATED": "```👀️ Simsimi Inbox Chat Bot දැනටමත් සක්‍රිය කර ඇත.```",
-            "DEACTIVATE": "```✅️ Simsimi Inbox Chat Bot සාර්ථකව අක්‍රිය වේ.```",
-            "ALLREADY_DEACTIVATED": "```👀️ Simsimi Inbox Chat Bot දැනටමත් අක්‍රිය කර ඇත.```"
+            "ALLREADY_ACTIVATED": "```👀️ Simsimi Inbox Chat Bot Allready Activated.```",
+            "DEACTIVATE": "```✅️ Simsimi Inbox Chat Bot Deactivate Successfully.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Simsimi Inbox Chat Bot Allready Deactivated.```"
               },
          "simsimi_group_chatbot": {
-            "ACTIVATE": "```✅️ Simsimi Group Chat Bot සාර්ථකව සක්‍රිය වේ.```",
-            "ALLREADY_ACTIVATED": "```👀️ Simsimi Group Chat Bot දැනටමත් සක්‍රිය කර ඇත.```",
-            "DEACTIVATE": "```✅️ Simsimi Group Chat Bot සාර්ථකව අක්‍රිය වේ.```",
-            "ALLREADY_DEACTIVATED": "```👀️ Simsimi Group Chat Bot දැනටමත් අක්‍රිය කර ඇත.```"
+            "ACTIVATE": "```✅️ Simsimi Group Chat Bot Activate Successfully.```",
+            "ALLREADY_ACTIVATED": "```👀️ Simsimi Group Chat Bot Allready Activated.```",
+            "DEACTIVATE": "```✅️ Simsimi Group Chat Bot Deactivate Successfully.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Simsimi Group Chat Bot Allready Deactivated.```"
               },
           "gpt_pm_chatbot": {
             "REQUEST_API": "*🤖️ Error :- \n*```Ohh..Open-AI key not found.Please Put Open AI Key to config.js```\n\n_Make open ai key in this website_ : https://beta.openai.com/account/api-keys",
