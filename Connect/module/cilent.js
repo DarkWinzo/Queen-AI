@@ -29,7 +29,7 @@ const { default: QueenConnect,
        makeInMemoryStore, 
        jidDecode, 
        proto 
-       } = require("@adiwajshing/baileys");
+       } = require("@whiskeysockets/baileys");
 const config = require('../../config');
 const pino = require('pino');
 const fs = require('fs');
