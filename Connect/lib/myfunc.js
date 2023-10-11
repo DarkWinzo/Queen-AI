@@ -1,4 +1,4 @@
-const { proto, delay, getContentType } = require('@adiwajshing/baileys')
+const { proto, delay, getContentType } = require('@whiskeysockets/baileys')
 const chalk = require('chalk')
 const fs = require('fs')
 const Crypto = require('crypto')
@@ -8,7 +8,6 @@ const { sizeFormatter } = require('human-readable')
 const util = require('util')
 const Jimp = require('jimp')
 const { defaultMaxListeners } = require('stream')
-
 
 const unixTimestampSeconds = (date = new Date()) => Math.floor(date.getTime() / 1000)
 
