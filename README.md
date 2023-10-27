@@ -1,7 +1,7 @@
 ```python
 Hi I'm Queen-AI Whatsapp chatgpt Chat Bot
 
-• __version__  == "__1.0.0__":
+• __version__  == "__1.0.1__":
     return print("1.0.0")
     
 • __Team__ == "__Technical Hacking Team__":
