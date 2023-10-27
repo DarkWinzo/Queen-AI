@@ -31,11 +31,6 @@
 			"required": true,
 			"value": ""
 		},
-		"OPEN_AI_KEY": {
-			"description": "Enter Open AI api key here",
-			"required": true,
-			"value": ""
-		},
 		"LANGUAGE": {
 			"description": "Enter bot working language EN / SI / ML / UR / HI",
 			"required": true,
