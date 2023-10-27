@@ -1,5 +1,5 @@
 ```python
-Hi I'm Queen-AI Whatsapp chatgpt Chat Bot
+Hi I'm Queen-AI Whatsapp Advance chatgpt Chat Bot
 
 • __version__  == "__1.0.1__":
     return print("1.0.0")
