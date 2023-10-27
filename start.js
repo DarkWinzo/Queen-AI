@@ -7,7 +7,7 @@
                                 ╰━━╮┣━━━┻━━━┻━━━┻╯ ╰━╯    ╰╯ ╰┻━━╯
                                    ╰╯
 ## Project Name => Queen-AI
-## Project Version => 1.0.0  
+## Project Version => 1.0.1  
 ## Project Author => DarkWinzo
 ## Project license => MIT
 ## Project Team => DarkSide Team
