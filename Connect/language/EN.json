@@ -12,7 +12,6 @@
             "ERROR": "```❌ An error has occurred.```"
              },
         "davinci_chatbot": {
-            "BOT_NAME": "👸🏻️ QUEEN - AI",
             "ERROR": "```I am getting API Update right now. Please hold on and check back in a while.```"
              },     
         "pm_chatbot": {
