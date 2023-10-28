@@ -8,7 +8,7 @@ Hi I'm Queen-AI Whatsapp Advance chatgpt Chat Bot
     return print("Technical Hacking Team")
   
 • __Currently_Language__ == "__English & Sinhala & Urdu & Malayalam & Hindi__":
-    return print("English & Sinhala & Urdu & Malay & Hindi")
+    return print("English & Sinhala & Urdu & Malayalam & Hindi")
 ```
 
 <div align="center">
