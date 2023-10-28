@@ -1,0 +1,135 @@
+{
+    "LANGUAGE": "English",
+    "LANGCODE": "EN",
+    "AUTHOR": "DarkWinzo",
+    "STRINGS": {
+      
+      "queen_md": {
+        "gpt_chatbot": {
+            "ERROR": "🤖️ Error Code"
+             },
+        "simsimi_chatbot": {
+            "ERROR": "```❌ An error has occurred.```"
+             },
+        "davinci_chatbot": {
+            "BOT_NAME": "👸🏻️ QUEEN - AI",
+            "ERROR": "```I am getting API Update right now. Please hold on and check back in a while.```"
+             },     
+        "pm_chatbot": {
+            "ACTIVATE": "```✅️ Brainshop Inbox Chat Bot Activate Successfully.```",
+            "ALLREADY_ACTIVATED": "```👀️ Brainshop Inbox Chat Bot Allready Activated.```",
+            "DEACTIVATE": "```✅️ Brainshop Inbox Chat Bot Deactivate Successfully.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Brainshop Inbox Chat Bot Allready Deactivated.```"
+              },
+         "group_chatbot": {
+            "ACTIVATE": "```✅️ Brainshop Group Chat Bot Activate Successfully.```",
+            "ALLREADY_ACTIVATED": "```👀️ Brainshop Group Chat Bot Allready Activated.```",
+            "DEACTIVATE": "```✅️ Brainshop Group Chat Bot Deactivate Successfully.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Brainshop Group Chat Bot Allready Deactivated.```"
+              },
+          "simsimi_pm_chatbot": {
+            "ACTIVATE": "```✅️ Simsimi Inbox Chat Bot Activate Successfully.```",
+            "ALLREADY_ACTIVATED": "```👀️ Simsimi Inbox Chat Bot Allready Activated.```",
+            "DEACTIVATE": "```✅️ Simsimi Inbox Chat Bot Deactivate Successfully.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Simsimi Inbox Chat Bot Allready Deactivated.```"
+              },
+         "simsimi_group_chatbot": {
+            "ACTIVATE": "```✅️ Simsimi Group Chat Bot Activate Successfully.```",
+            "ALLREADY_ACTIVATED": "```👀️ Simsimi Group Chat Bot Allready Activated.```",
+            "DEACTIVATE": "```✅️ Simsimi Group Chat Bot Deactivate Successfully.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Simsimi Group Chat Bot Allready Deactivated.```"
+              },
+          "gpt_pm_chatbot": {
+            "REQUEST_API": "*🤖️ Error :- \n*```Ohh..Open-AI key not found.Please Put Open AI Key to config.js```\n\n_Make open ai key in this website_ : https://beta.openai.com/account/api-keys",
+            "ACTIVATE": "```✅️ Gpt Inbox Chat Bot Activate Successfully.```",
+            "ALLREADY_ACTIVATED": "```👀️ Gpt Inbox Chat Bot Allready Activated.```",
+            "DEACTIVATE": "```✅️ Gpt Inbox Chat Bot Deactivate Successfully.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Gpt Inbox Chat Bot Allready Deactivated.```"
+              },
+          "gpt_group_chatbot": {
+            "ACTIVATE": "```✅️ Gpt Group Chat Bot Activate Successfully.```",
+            "ALLREADY_ACTIVATED": "```👀️ Gpt Group Chat Bot Allready Activated.```",
+            "DEACTIVATE": "```✅️ Gpt Group Chat Bot Deactivate Successfully.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Gpt Group Chat Bot Allready Deactivated.```"
+              },
+          "davinci_pm_chatbot": {
+            "ACTIVATE": "```✅️ Davinci Module Inbox Chat Bot Activate Successfully.```",
+            "ALLREADY_ACTIVATED": "```👀️ Davinci Module Inbox Chat Bot Allready Activated.```",
+            "DEACTIVATE": "```✅️ Davinci Module Inbox Chat Bot Deactivate Successfully.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Davinci Module Inbox Chat Bot Allready Deactivated.```"
+              },
+           "davinci_group_chatbot": {
+            "ACTIVATE": "```✅️ Davinci Module Group Chat Bot Activate Successfully.```",
+            "ALLREADY_ACTIVATED": "```👀️ Davinci Module Group Chat Bot Allready Activated.```",
+            "DEACTIVATE": "```✅️ Davinci Module Group Chat Bot Deactivate Successfully.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Davinci Module Group Chat Bot Allready Deactivated.```"
+              },
+           "botmode": {
+            "SELF_ACTIVATE": "```✅️ Queen-AI Self Mode Activate Successfully.```",
+            "SELF_ALLREADY_ACTIVATED": "```👀️ Queen-AI Self Mode Allready Activated.```",
+            "PUBLIC_ACTIVATE": "```✅️ Queen-AI Public Mode Activate Successfully.```",
+            "PUBLIC_ALLREADY_ACTIVATED": "```👀️ Queen-AI Public Mode Allready Activated.```"
+              },
+           "react": {
+            "ACTIVATE": "```✅️ Queen-AI Auto Reaction Activate Successfully.```",
+            "ALLREADY_ACTIVATED": "```👀️ Queen-AI Auto Reaction Allready Activated.```",
+            "DEACTIVATE": "```✅️ Queen-AI Auto Reaction Deactivate Successfully.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Queen-AI Auto Reaction Allready Deactivated.```"
+              },
+           "presence": {
+            "ACTIVATE": "```✅️ Queen-AI Typing Presence Activate Successfully.```",
+            "ALLREADY_ACTIVATED": "```👀️ Queen-AI Typing Presence Allready Activated.```",
+            "DEACTIVATE": "```✅️ Queen-AI Typing Presence Deactivate Successfully.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Queen-AI Typing Presence Allready Deactivated.```"
+              },
+           "read_message": {
+            "ACTIVATE": "```✅️ Queen-AI is successfully activated to read your messages.```",
+            "ALLREADY_ACTIVATED": "```👀️ Queen-AI is Allready Activated to read your messages.```",
+            "DEACTIVATE": "```✅️ Queen-AI is Deactivated to read your messages.```",
+            "ALLREADY_DEACTIVATED": "```👀 Queen-AI is Allready Deactivated to read your messages.```"
+              },
+           "mute_chat": {
+            "ACTIVATE": "```✅️ This chat Mute Successfully.```",
+            "ALLREADY_ACTIVATED": "```👀️ This chat Allready Muted.```",
+            "DEACTIVATE": "```✅️ This chat Unmute Successfully.```",
+            "ALLREADY_DEACTIVATED": "```👀️ This chat Allready Unmuted.```"
+              },
+           "mute_bot": {
+            "ACTIVATE": "```✅️ Queen-AI Bot Mute Successfully.```",
+            "ALLREADY_ACTIVATED": "```👀️ Queen-AI Bot Allready Muted.```",
+            "DEACTIVATE": "```✅️ Queen-AI Bot Unmute Successfully.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Queen-AI Bot Allready Unmuted.```"
+              },
+           "power-setting": {
+            "RESTARTING": "```Restarting...```",
+            "RRESTARTED": "```✅️ Restart Successfully.```",
+            "SHUTDOWNING": "```Shutdowning...```",
+            "SHUTDOWN": "```✅️ Shutdown Successfully.```"
+              },
+             "clear": {
+            "CLEAR_MSG": "```🗑 Successfully Cleared Chat.```"
+             },
+           "ai_reply": {
+            "TEXT": "```Reply with what you want to ask via Chatgpt.```"
+             },
+           "ai_img": {
+            "TEXT": "```Reply with the name of the picture you want.```",
+            "SEARCH": "```🔎 Search for the picture....```",
+            "ERROR": "```❌ Sorry, I didn't find anything.```"
+             },
+           "texttospeech": {
+            "TEXT": "```🤖 Enter the text you want to say through Text To Speech.```"
+             },
+           "translate": {
+            "TEXT": "```What text do you want to translate?```",
+            "ERROR": "```❌ Sorry..difficult to translate due to some error```"
+             },
+           "index_function": {
+            "CONNECT": "𝗤𝚄𝙴𝙴𝙽-𝗔𝙸 𝗖𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 𝗦𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈",
+            "GUIDE": "𝗤𝚄𝙴𝙴𝙽 - 𝗔𝙸 𝗚𝙿𝚃 𝗖𝙷𝙰𝚃 𝗔𝙸\n\nAbout Queen-AI Chat AI bot,\n\nThis bot is integrated with Barinshop and Open AI chat gpt Module.\n\nCommands of Queen-AI,\n\n❍ .pm-chatbot ➪ With this command you can enable or disable the Brainshop Inbox Chat Bot.\n\n❍ .group-chatbot ➪ This command allows you to enable or disable the Brainshop Group Chat Bot.\n\n❍ .gpt-pm-chatbot ➪ With this command you can enable or disable Gpt Inbox Chat Bot.\n\n❍ .gpt-group-chatbot ➪ With this command you can enable or disable Gpt Group Chat Bot.\n\n❍ .davinci-pm-chatbot ➪ With this command you can enable or disable Gpt Davinci Inbox Chat Bot.\n\n❍ .davinci-group-chatbot ➪ With this command you can enable or disable Gpt Davinci Group Chat Bot.\n\n❍ .botmode ➪ With this command you can run Queen-AI Chat Bot in both Public and Self modes.\n\n❍ .mute-option ➪ This command allows you to mute the Queen-Ai bot completely or only mute the bot on a particular chat.\n\n❍ .set-presence ➪ With this command you can enable or disable the appearance of Typing on the bot's responses when the bot is running.\n\n❍ .set-react ➪ With this command you can enable or disable auto-react to all messages.\n\n❍ .power-setting ➪ With this command you can restart or disable the bot.\n\n❍ .information ➪ This command can help you with the bot's source code and the bot project.\n",
+            "NOTE": "👸🏻️ Note...\n\nyou can use all commands only in your log chat and type .setting-menu to get the main menu here.",
+            "SUPPORT": "```✅️ Queen-AI Support Group join Successfully```"
+              }
+         }
+    }
+}
