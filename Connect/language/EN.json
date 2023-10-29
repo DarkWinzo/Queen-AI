@@ -12,7 +12,7 @@
             "ERROR": "```❌ An error has occurred.```"
              },
         "davinci_chatbot": {
-            "ERROR": "```I am getting API Update right now. Please hold on and check back in a while.```"
+            "ERROR": "```Someything went wrong.Please try again later```"
              },     
         "pm_chatbot": {
             "ACTIVATE": "```✅️ Brainshop Inbox Chat Bot Activate Successfully.```",
