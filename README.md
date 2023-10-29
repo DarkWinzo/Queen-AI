@@ -22,6 +22,8 @@ Hi I'm Queen-AI Whatsapp Advance chatgpt Chat Bot
 
 </div>
 
+# Deployment Methods
+
 <div align="center">
    
 <a href="https://queen-ai.queen-md.repl.co/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
@@ -52,11 +54,7 @@ Setting Menu Command ==> .setting-menu
 > Please Give A Star On Repo
 
 ---
-# Deployment Methods
 
-<a href="https://github.com/DarkWinzo/Queen-AI/wiki/Queen-AI-Deploy"><img title="DEPLOY" src="https://img.shields.io/badge/DEPLOY-h?color=black&style=for-the-badge&logo=rotaryinternational"></a>
-
-<a href="https://github.com/DarkWinzo/Queen-AI/wiki/"><img title="Deploy Support" src="https://img.shields.io/badge/Deploy%20instructions-Touch%20Here-yellow.svg?style=for-the-badge&logo=mdbook" /></a>  
 
 ## Support Group
 
