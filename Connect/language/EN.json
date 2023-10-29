@@ -106,7 +106,8 @@
             "SHUTDOWN": "```✅️ Shutdown Successfully.```"
               },
              "clear": {
-            "CLEAR_MSG": "```🗑 Successfully Cleared Chat.```"
+            "CLEAR_MSG": "```🗑 Successfully Cleared Chat.```",
+            "ERROR": "```❌ Sorry..I can't clear Messages.```"     
              },
            "ai_reply": {
             "TEXT": "```Reply with what you want to ask via Chatgpt.```"
