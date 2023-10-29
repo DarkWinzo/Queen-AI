@@ -5,6 +5,14 @@
  <img width=380px height=380px src="https://i.ibb.co/b1t6fTt/Picsart-23-07-03-13-48-56-122.png" alt="@DarkWinzo/Queen-AI"></a>
 </p>
 
+
+<div align="center">
+   
+<a href="https://queen-ai.queen-md.repl.co/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+<br>
+</div>
+
+ 
 ```python
 Hi I'm Queen-AI Whatsapp Advance chatgpt Chat Bot
 
