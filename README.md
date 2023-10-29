@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="" rel="noopener">
- <img width=380px height=180px src="https://i.ibb.co/b1t6fTt/Picsart-23-07-03-13-48-56-122.png" alt="@DarkWinzo/Queen-AI"></a>
+ <img width=380px height=380px src="https://i.ibb.co/b1t6fTt/Picsart-23-07-03-13-48-56-122.png" alt="@DarkWinzo/Queen-AI"></a>
 </p>
 
 ```python
