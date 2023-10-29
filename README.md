@@ -1,3 +1,10 @@
+# QUEEN - AI
+
+<p align="center">
+ <a href="" rel="noopener">
+ <img width=180px height=180px src="https://i.ibb.co/vL5MM0j/Queen.jpg" alt="@DarkWinzo/Queen-AI"></a>
+</p>
+
 ```python
 Hi I'm Queen-AI Whatsapp Advance chatgpt Chat Bot
 
