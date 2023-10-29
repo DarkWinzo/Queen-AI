@@ -25,7 +25,7 @@ module.exports = {
       OWNER_NUMBER: process.env.OWNER_NUMBER || "9277XXXXXX", //Owner whatsapp number here
       OWNER_NAME: process.env.OWNER_NAME || "DarkWinzo", //Queen-AI Owner Name here
       PREFIX: ".", //Don't Change This..
-      LANGUAGE: process.env.LANGUAGE || "SI" //Enter bot working language EN = English / SI = Sinhala /ML = Malayalam /HI =Hindi /UR = Urdu /FR = Fransh
+      LANGUAGE: process.env.LANGUAGE || "SI" //Enter bot working language EN = English / SI = Sinhala /ML = Malayalam /HI =Hindi /UR = Urdu /FR = French
 };
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 let file = require.resolve(__filename)
