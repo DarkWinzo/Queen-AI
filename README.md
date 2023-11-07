@@ -26,7 +26,11 @@ Hi I'm Queen-AI Whatsapp Advance chatgpt Chat Bot
 
 <div align="center">
    
-<a href="https://queen-ai.queen-md.repl.co/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+<a href="https://queen-ai.queen-md.repl.co/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR 1" height="112" width="300" /></a><br>
+  <div>
+ <br>
+
+<a href="https://replit.com/@DarkWinzo/QUEEN-AI-QR?v=1"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR 2" height="112" width="300" /></a><br>
   <div>
  <br>
 
