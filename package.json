@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/DarkWinzo/Queen-AI#readme",
   "dependencies": {
-    "@whiskeysockets/baileys": "git+https://github.com/makanSukros/Baileys.git",
+    "@whiskeysockets/baileys": "git+https://github.com/DarkWinzo/Baileys.js.git",
     "@darkside-developers/translate": "^1.0.0",
     "@hapi/boom": "^10.0.1",
     "awesome-phonenumber": "^2.64.0",
