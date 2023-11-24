@@ -24,7 +24,7 @@
     "@darkside-developers/translate": "^1.0.0",
     "@hapi/boom": "^10.0.1",
     "awesome-phonenumber": "^2.64.0",
-    "axios": "^1.6.0",
+    "axios": "^1.6.2",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.12",
     "child_process": "^1.0.2",
@@ -45,7 +45,7 @@
     "ora": "^5.4.1",
     "os": "^0.1.2",
     "path": "^0.12.7",
-    "pino": "^8.16.1",
+    "pino": "^8.16.2",
     "terminal-qr": "^1.0.1",
     "util": "^0.12.5",
     "yargs": "^17.7.2"
